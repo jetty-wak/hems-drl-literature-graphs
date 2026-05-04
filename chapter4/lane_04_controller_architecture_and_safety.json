@@ -1,0 +1,62 @@
+{
+  "nodes": [
+    {
+      "id": "claim:2",
+      "label": "Claim L209",
+      "subtitle": "Dalal et al.\\ describe a layer that analytically solves an action-correction formulatio...",
+      "meta": {
+        "row_id": "2",
+        "line_number": "209",
+        "semantic_verdict": "supported"
+      }
+    },
+    {
+      "id": "concept:citation_governance",
+      "label": "citation governance",
+      "subtitle": "concept",
+      "meta": {
+        "concept": "citation_governance"
+      }
+    },
+    {
+      "id": "evidence:2:1",
+      "label": "p.1",
+      "subtitle": "Nevertheless, we in- layer that analytically solves an action correc- deedmanagetoaccom...",
+      "meta": {
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\citation_verification\\recovered_pdfs\\Dalal2018_Safe_exploration_in_continuous_action_spaces.pdf",
+        "quote_page_num": "1",
+        "quote_confidence": "high",
+        "semantic_verdict": "supported",
+        "status": "false",
+        "evidence_note": "Quote covers the core claim terms: ['action', 'analytically', 'formulation', 'layer', 'solves', 'state']."
+      }
+    },
+    {
+      "id": "source:Dalal2018",
+      "label": "Dalal2018",
+      "subtitle": "Safe exploration in continuous action spaces",
+      "meta": {
+        "citation_key": "Dalal2018",
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\citation_verification\\recovered_pdfs\\Dalal2018_Safe_exploration_in_continuous_action_spaces.pdf",
+        "mapping_status": "strong_pdf_match"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "claim:2",
+      "target": "source:Dalal2018",
+      "relation": "cites"
+    },
+    {
+      "source": "evidence:2:1",
+      "target": "concept:citation_governance",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "source:Dalal2018",
+      "target": "evidence:2:1",
+      "relation": "contains_evidence"
+    }
+  ]
+}

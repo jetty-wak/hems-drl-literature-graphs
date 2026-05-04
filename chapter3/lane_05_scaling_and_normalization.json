@@ -1,0 +1,364 @@
+{
+  "nodes": [
+    {
+      "id": "claim:10",
+      "label": "Claim L66",
+      "subtitle": "which can be estimated from sampled trajectories",
+      "meta": {
+        "row_id": "10",
+        "line_number": "66",
+        "semantic_verdict": "supported"
+      }
+    },
+    {
+      "id": "claim:12",
+      "label": "Claim L72",
+      "subtitle": "Tabular reinforcement-learning methods assume state and action spaces small enough for...",
+      "meta": {
+        "row_id": "12",
+        "line_number": "72",
+        "semantic_verdict": "supported"
+      }
+    },
+    {
+      "id": "claim:4",
+      "label": "Claim L29",
+      "subtitle": "Xu et al.\\ compare RL variants with rule-based operation for building energy-system con...",
+      "meta": {
+        "row_id": "4",
+        "line_number": "29",
+        "semantic_verdict": "supported"
+      }
+    },
+    {
+      "id": "claim:5",
+      "label": "Claim L38",
+      "subtitle": "A Markov decision process (MDP) is a common mathematical framework for sequential decis...",
+      "meta": {
+        "row_id": "5",
+        "line_number": "38",
+        "semantic_verdict": "supported"
+      }
+    },
+    {
+      "id": "claim:6",
+      "label": "Claim L38",
+      "subtitle": "An MDP is defined by the tuple $(S, A, T, R, )$, where $S$ is the state space, $A$ is t...",
+      "meta": {
+        "row_id": "6",
+        "line_number": "38",
+        "semantic_verdict": "supported"
+      }
+    },
+    {
+      "id": "claim:7",
+      "label": "Claim L58",
+      "subtitle": "An optimal policy can then be recovered as $^*(a s) = _a Q^*(s,a)$ for deterministic po...",
+      "meta": {
+        "row_id": "7",
+        "line_number": "58",
+        "semantic_verdict": "supported"
+      }
+    },
+    {
+      "id": "claim:9",
+      "label": "Claim L61",
+      "subtitle": "Rather than learning $Q^*$ and deriving a policy implicitly, policy gradient methods di...",
+      "meta": {
+        "row_id": "9",
+        "line_number": "61",
+        "semantic_verdict": "supported"
+      }
+    },
+    {
+      "id": "concept:battery_dynamics",
+      "label": "battery dynamics",
+      "subtitle": "concept",
+      "meta": {
+        "concept": "battery_dynamics"
+      }
+    },
+    {
+      "id": "concept:citation_governance",
+      "label": "citation governance",
+      "subtitle": "concept",
+      "meta": {
+        "concept": "citation_governance"
+      }
+    },
+    {
+      "id": "concept:drl_sac_control",
+      "label": "drl sac control",
+      "subtitle": "concept",
+      "meta": {
+        "concept": "drl_sac_control"
+      }
+    },
+    {
+      "id": "concept:scaling_generalization",
+      "label": "scaling generalization",
+      "subtitle": "concept",
+      "meta": {
+        "concept": "scaling_generalization"
+      }
+    },
+    {
+      "id": "evidence:10:210",
+      "label": "p.210",
+      "subtitle": "Further, by incrementally expanding the tree, MCTS e\u21b5ectively grows a lookup table to s...",
+      "meta": {
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\citation_verification\\recovered_pdfs\\Sutton2018_Reinforcement_Learning_An_Introduction.pdf",
+        "quote_page_num": "210",
+        "quote_confidence": "high",
+        "semantic_verdict": "supported",
+        "status": "false",
+        "evidence_note": "Quote covers the core claim terms: ['estimated', 'trajectories']."
+      }
+    },
+    {
+      "id": "evidence:12:45",
+      "label": "p.45",
+      "subtitle": "Part I: Tabular Solution Methods In this part of the book we describe almost all the co...",
+      "meta": {
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\citation_verification\\recovered_pdfs\\Sutton2018_Reinforcement_Learning_An_Introduction.pdf",
+        "quote_page_num": "45",
+        "quote_confidence": "high",
+        "semantic_verdict": "supported",
+        "status": "false",
+        "evidence_note": "Quote covers the core claim terms: ['action', 'approximate', 'arrays', 'enough', 'functions', 'learning', 'methods', 'reinforcement', 'represented', 'small', 'spaces', 'state',..."
+      }
+    },
+    {
+      "id": "evidence:4:16",
+      "label": "p.16",
+      "subtitle": "Table 4. Operation results of optimization based on rule-based, Q-learning, DQN, and DD...",
+      "meta": {
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\hub\\papers\\Theme_05_Battery_Storage_EV\\056_Performance_Assessment_and_Comparative_Analysis_of_Photovoltaic_Battery_System_S.pdf",
+        "quote_page_num": "16",
+        "quote_confidence": "high",
+        "semantic_verdict": "supported",
+        "status": "false",
+        "evidence_note": "manual local-quote override: Xu et al. directly support comparison of RL variants with rule-based operation in building energy-system control. Provenance: Local PDF/text extract..."
+      }
+    },
+    {
+      "id": "evidence:5:528",
+      "label": "p.528",
+      "subtitle": "The formal definition of state as we use it here is given by the framework of Markov de...",
+      "meta": {
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\citation_verification\\recovered_pdfs\\Sutton2018_Reinforcement_Learning_An_Introduction.pdf",
+        "quote_page_num": "528",
+        "quote_confidence": "high",
+        "semantic_verdict": "supported",
+        "status": "false",
+        "evidence_note": "manual local-quote override: Sutton gives MDPs as the formal framework for the state/action/reward transition setting used by the sentence. Provenance: Local PDF quote from docs..."
+      }
+    },
+    {
+      "id": "evidence:6:484",
+      "label": "p.484",
+      "subtitle": "The conventional model of an action is the state-transition probabilities and the expec...",
+      "meta": {
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\citation_verification\\recovered_pdfs\\Sutton2018_Reinforcement_Learning_An_Introduction.pdf",
+        "quote_page_num": "484",
+        "quote_confidence": "high",
+        "semantic_verdict": "supported",
+        "status": "false",
+        "evidence_note": "manual local-quote override: Sutton supports the MDP components of state action transition probabilities and reward; the thesis sentence gives the standard notation. Provenance:..."
+      }
+    },
+    {
+      "id": "evidence:7:102",
+      "label": "p.102",
+      "subtitle": "Because a finite MDP has only a finite number of deterministic policies, this process m...",
+      "meta": {
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\citation_verification\\recovered_pdfs\\Sutton2018_Reinforcement_Learning_An_Introduction.pdf",
+        "quote_page_num": "102",
+        "quote_confidence": "high",
+        "semantic_verdict": "supported",
+        "status": "false",
+        "evidence_note": "Quote covers the core claim terms: ['deterministic', 'optimal', 'policies', 'policy']."
+      }
+    },
+    {
+      "id": "evidence:9:359",
+      "label": "p.359",
+      "subtitle": "Policy-gradient methods update the policy parameter on each step in the direction of an...",
+      "meta": {
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\citation_verification\\recovered_pdfs\\Sutton2018_Reinforcement_Learning_An_Introduction.pdf",
+        "quote_page_num": "359",
+        "quote_confidence": "high",
+        "semantic_verdict": "supported",
+        "status": "false",
+        "evidence_note": "manual local-quote override: Sutton directly supports policy-gradient updates with respect to policy parameters. Provenance: Local PDF quote from docs/citation_verification/reco..."
+      }
+    },
+    {
+      "id": "source:Sutton2018",
+      "label": "Sutton2018",
+      "subtitle": "Reinforcement learning: An introduction",
+      "meta": {
+        "citation_key": "Sutton2018",
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\citation_verification\\recovered_pdfs\\Sutton2018_Reinforcement_Learning_An_Introduction.pdf",
+        "mapping_status": "strong_pdf_match"
+      }
+    },
+    {
+      "id": "source:XuLiHeXuGao2023",
+      "label": "XuLiHeXuGao2023",
+      "subtitle": "Performance Assessment and Comparative Analysis of Photovoltaic-Battery System Scheduli...",
+      "meta": {
+        "citation_key": "XuLiHeXuGao2023",
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\hub\\papers\\Theme_05_Battery_Storage_EV\\056_Performance_Assessment_and_Comparative_Analysis_of_Photovoltaic_Battery_System_S.pdf",
+        "mapping_status": "usable_pdf_match"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "claim:10",
+      "target": "source:Sutton2018",
+      "relation": "cites"
+    },
+    {
+      "source": "claim:12",
+      "target": "source:Sutton2018",
+      "relation": "cites"
+    },
+    {
+      "source": "claim:4",
+      "target": "source:XuLiHeXuGao2023",
+      "relation": "cites"
+    },
+    {
+      "source": "claim:5",
+      "target": "source:Sutton2018",
+      "relation": "cites"
+    },
+    {
+      "source": "claim:6",
+      "target": "source:Sutton2018",
+      "relation": "cites"
+    },
+    {
+      "source": "claim:7",
+      "target": "source:Sutton2018",
+      "relation": "cites"
+    },
+    {
+      "source": "claim:9",
+      "target": "source:Sutton2018",
+      "relation": "cites"
+    },
+    {
+      "source": "evidence:10:210",
+      "target": "concept:citation_governance",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:10:210",
+      "target": "concept:drl_sac_control",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:12:45",
+      "target": "concept:citation_governance",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:12:45",
+      "target": "concept:drl_sac_control",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:4:16",
+      "target": "concept:battery_dynamics",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:4:16",
+      "target": "concept:citation_governance",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:4:16",
+      "target": "concept:scaling_generalization",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:5:528",
+      "target": "concept:citation_governance",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:5:528",
+      "target": "concept:drl_sac_control",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:6:484",
+      "target": "concept:citation_governance",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:6:484",
+      "target": "concept:drl_sac_control",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:7:102",
+      "target": "concept:citation_governance",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:7:102",
+      "target": "concept:drl_sac_control",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:9:359",
+      "target": "concept:citation_governance",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:9:359",
+      "target": "concept:drl_sac_control",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "source:Sutton2018",
+      "target": "evidence:10:210",
+      "relation": "contains_evidence"
+    },
+    {
+      "source": "source:Sutton2018",
+      "target": "evidence:12:45",
+      "relation": "contains_evidence"
+    },
+    {
+      "source": "source:Sutton2018",
+      "target": "evidence:5:528",
+      "relation": "contains_evidence"
+    },
+    {
+      "source": "source:Sutton2018",
+      "target": "evidence:6:484",
+      "relation": "contains_evidence"
+    },
+    {
+      "source": "source:Sutton2018",
+      "target": "evidence:7:102",
+      "relation": "contains_evidence"
+    },
+    {
+      "source": "source:Sutton2018",
+      "target": "evidence:9:359",
+      "relation": "contains_evidence"
+    },
+    {
+      "source": "source:XuLiHeXuGao2023",
+      "target": "evidence:4:16",
+      "relation": "contains_evidence"
+    }
+  ]
+}

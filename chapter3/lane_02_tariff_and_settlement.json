@@ -1,0 +1,895 @@
+{
+  "nodes": [
+    {
+      "id": "claim:1",
+      "label": "Claim L25",
+      "subtitle": "Nakabi and Toivanen formulate microgrid energy management as an RL problem with state,...",
+      "meta": {
+        "row_id": "1",
+        "line_number": "25",
+        "semantic_verdict": "supported"
+      }
+    },
+    {
+      "id": "claim:11",
+      "label": "Claim L66",
+      "subtitle": "SAC is an actor--critic algorithm that employs off-policy maximum-entropy learning",
+      "meta": {
+        "row_id": "11",
+        "line_number": "66",
+        "semantic_verdict": "supported"
+      }
+    },
+    {
+      "id": "claim:13",
+      "label": "Claim L72",
+      "subtitle": "Deep reinforcement learning addresses this limitation by using neural networks as funct...",
+      "meta": {
+        "row_id": "13",
+        "line_number": "72",
+        "semantic_verdict": "supported"
+      }
+    },
+    {
+      "id": "claim:14",
+      "label": "Claim L72",
+      "subtitle": "Deep reinforcement learning addresses this limitation by using neural networks as funct...",
+      "meta": {
+        "row_id": "14",
+        "line_number": "72",
+        "semantic_verdict": "supported"
+      }
+    },
+    {
+      "id": "claim:16",
+      "label": "Claim L78",
+      "subtitle": "Energy-system RL comparisons show that algorithm choice, penalty coefficients, and func...",
+      "meta": {
+        "row_id": "16",
+        "line_number": "78",
+        "semantic_verdict": "supported"
+      }
+    },
+    {
+      "id": "claim:18",
+      "label": "Claim L113",
+      "subtitle": "SAC incorporates a maximum-entropy objective in its policy formulation",
+      "meta": {
+        "row_id": "18",
+        "line_number": "113",
+        "semantic_verdict": "supported"
+      }
+    },
+    {
+      "id": "claim:19",
+      "label": "Claim L119",
+      "subtitle": "First, SAC addresses policy learning in continuous action spaces",
+      "meta": {
+        "row_id": "19",
+        "line_number": "119",
+        "semantic_verdict": "supported"
+      }
+    },
+    {
+      "id": "claim:2",
+      "label": "Claim L25",
+      "subtitle": "Xu et al.\\ apply RL to building energy-system operation with battery charge/discharge a...",
+      "meta": {
+        "row_id": "2",
+        "line_number": "25",
+        "semantic_verdict": "supported"
+      }
+    },
+    {
+      "id": "claim:20",
+      "label": "Claim L119",
+      "subtitle": "Second, SAC is an off-policy algorithm",
+      "meta": {
+        "row_id": "20",
+        "line_number": "119",
+        "semantic_verdict": "supported"
+      }
+    },
+    {
+      "id": "claim:21",
+      "label": "Claim L132",
+      "subtitle": "where \\(H(( s_t)) = -E[ (a_t s_t)]\\) is the policy entropy at state \\(s_t\\), and \\( > 0...",
+      "meta": {
+        "row_id": "21",
+        "line_number": "132",
+        "semantic_verdict": "supported"
+      }
+    },
+    {
+      "id": "claim:23",
+      "label": "Claim L142",
+      "subtitle": "CMDP formulations expose auxiliary safety costs and constraints explicitly",
+      "meta": {
+        "row_id": "23",
+        "line_number": "142",
+        "semantic_verdict": "supported"
+      }
+    },
+    {
+      "id": "claim:28",
+      "label": "Claim L43",
+      "subtitle": "A constrained MDP (CMDP) augments the MDP with auxiliary cost functions and constraint...",
+      "meta": {
+        "row_id": "28",
+        "line_number": "43",
+        "semantic_verdict": "supported"
+      }
+    },
+    {
+      "id": "claim:3",
+      "label": "Claim L29",
+      "subtitle": "Hou et al.\\ compare DDPG, TD3, SAC, and PPO with a mathematical-programming model for e...",
+      "meta": {
+        "row_id": "3",
+        "line_number": "29",
+        "semantic_verdict": "supported"
+      }
+    },
+    {
+      "id": "claim:7",
+      "label": "Claim L58",
+      "subtitle": "An optimal policy can then be recovered as $^*(a s) = _a Q^*(s,a)$ for deterministic po...",
+      "meta": {
+        "row_id": "7",
+        "line_number": "58",
+        "semantic_verdict": "supported"
+      }
+    },
+    {
+      "id": "claim:8",
+      "label": "Claim L58",
+      "subtitle": "Deep RL methods replace explicit tables with neural-network function approximators, all...",
+      "meta": {
+        "row_id": "8",
+        "line_number": "58",
+        "semantic_verdict": "supported"
+      }
+    },
+    {
+      "id": "claim:9",
+      "label": "Claim L61",
+      "subtitle": "Rather than learning $Q^*$ and deriving a policy implicitly, policy gradient methods di...",
+      "meta": {
+        "row_id": "9",
+        "line_number": "61",
+        "semantic_verdict": "supported"
+      }
+    },
+    {
+      "id": "concept:battery_dynamics",
+      "label": "battery dynamics",
+      "subtitle": "concept",
+      "meta": {
+        "concept": "battery_dynamics"
+      }
+    },
+    {
+      "id": "concept:benchmark_fairness",
+      "label": "benchmark fairness",
+      "subtitle": "concept",
+      "meta": {
+        "concept": "benchmark_fairness"
+      }
+    },
+    {
+      "id": "concept:citation_governance",
+      "label": "citation governance",
+      "subtitle": "concept",
+      "meta": {
+        "concept": "citation_governance"
+      }
+    },
+    {
+      "id": "concept:drl_sac_control",
+      "label": "drl sac control",
+      "subtitle": "concept",
+      "meta": {
+        "concept": "drl_sac_control"
+      }
+    },
+    {
+      "id": "concept:network_assumption",
+      "label": "network assumption",
+      "subtitle": "concept",
+      "meta": {
+        "concept": "network_assumption"
+      }
+    },
+    {
+      "id": "concept:safety_projection",
+      "label": "safety projection",
+      "subtitle": "concept",
+      "meta": {
+        "concept": "safety_projection"
+      }
+    },
+    {
+      "id": "concept:tariff_settlement",
+      "label": "tariff settlement",
+      "subtitle": "concept",
+      "meta": {
+        "concept": "tariff_settlement"
+      }
+    },
+    {
+      "id": "evidence:11:1",
+      "label": "p.1",
+      "subtitle": "Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stocha...",
+      "meta": {
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\oa\\pdfs\\Haarnoja2018_1801.01290.pdf",
+        "quote_page_num": "1",
+        "quote_confidence": "high",
+        "semantic_verdict": "supported",
+        "status": "false",
+        "evidence_note": "Quote covers the core claim terms: ['actor', 'critic', 'entropy', 'learning', 'maximum', 'policy']."
+      }
+    },
+    {
+      "id": "evidence:13:1",
+      "label": "p.1",
+      "subtitle": "We use a deep convolutional neural network to approximate the optimal action-value func...",
+      "meta": {
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\hub\\papers\\Theme_01_DRL_SAC_Policy_Optimization\\045_Human_level_control_through_deep_reinforcement_learning.pdf",
+        "quote_page_num": "1",
+        "quote_confidence": "high",
+        "semantic_verdict": "supported",
+        "status": "false",
+        "evidence_note": "manual local-quote override: Mnih et al. support deep neural-network function approximation for value-based reinforcement learning. Provenance: Local PDF quote from docs/hub/pap..."
+      }
+    },
+    {
+      "id": "evidence:14:1",
+      "label": "p.1",
+      "subtitle": "We develop an off-policy actor-critic deep RL algorithm based on the maximum entropy re...",
+      "meta": {
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\oa\\pdfs\\Haarnoja2018_1801.01290.pdf",
+        "quote_page_num": "1",
+        "quote_confidence": "high",
+        "semantic_verdict": "supported",
+        "status": "false",
+        "evidence_note": "manual local-quote override: Haarnoja et al. support deep actor-critic reinforcement learning with function approximation in the SAC family. Provenance: Local PDF quote from doc..."
+      }
+    },
+    {
+      "id": "evidence:16:7",
+      "label": "p.7",
+      "subtitle": "The disparities in RL agent performance are due to the nature of their function approxi...",
+      "meta": {
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\LITERATURE_REVIEW_battery_scheduling_dynamic_tariffs_papers\\Theme_D_Benchmarking_MILP_vs_DRL\\D8_Linear_Reinforcement_Learning_for_Energy_Storage_Systems_Optimal_Dispatch.pdf",
+        "quote_page_num": "7",
+        "quote_confidence": "high",
+        "semantic_verdict": "supported",
+        "status": "false",
+        "evidence_note": "manual local-quote override: Gao et al. directly support the function-approximation part of the sentence for ESS dispatch RL performance differences. Provenance: Local PDF/text..."
+      }
+    },
+    {
+      "id": "evidence:18:4",
+      "label": "p.4",
+      "subtitle": "wish to compute the value of a policy \u03c0 according to the maximum entropy objective in E...",
+      "meta": {
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\oa\\pdfs\\Haarnoja2018_1801.01290.pdf",
+        "quote_page_num": "4",
+        "quote_confidence": "high",
+        "semantic_verdict": "supported",
+        "status": "false",
+        "evidence_note": "Quote covers the core claim terms: ['entropy', 'maximum', 'objective', 'policy']."
+      }
+    },
+    {
+      "id": "evidence:19:3",
+      "label": "p.3",
+      "subtitle": "Prior methods have proposed directly solving for the op- timal Q-function, from which t...",
+      "meta": {
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\oa\\pdfs\\Haarnoja2018_1801.01290.pdf",
+        "quote_page_num": "3",
+        "quote_confidence": "high",
+        "semantic_verdict": "supported",
+        "status": "false",
+        "evidence_note": "Quote covers the core claim terms: ['action', 'continuous', 'learning', 'policy', 'spaces']."
+      }
+    },
+    {
+      "id": "evidence:1:4",
+      "label": "p.4",
+      "subtitle": "The problem is formulated as a Markov Decision Process (MDP) that is characterized by a...",
+      "meta": {
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\hub\\papers\\Theme_01_DRL_SAC_Policy_Optimization\\nakabiDeepReinforcementLearning2021_Deep_reinforcement_learning_for_energy_management_in_a_microgrid_with_flexible_demand.pdf",
+        "quote_page_num": "4",
+        "quote_confidence": "high",
+        "semantic_verdict": "supported",
+        "status": "false",
+        "evidence_note": "manual local-quote override: Nakabi and Toivanen directly support MDP formulation around state, action, transition, and reward components for microgrid energy management. Proven..."
+      }
+    },
+    {
+      "id": "evidence:20:3",
+      "label": "p.3",
+      "subtitle": "Incontrast,weprovethat Second, the policy can capture multiple modes of near- ourmethod...",
+      "meta": {
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\oa\\pdfs\\Haarnoja2018_1801.01290.pdf",
+        "quote_page_num": "3",
+        "quote_confidence": "high",
+        "semantic_verdict": "supported",
+        "status": "false",
+        "evidence_note": "Quote covers the core claim terms: ['policy', 'second']."
+      }
+    },
+    {
+      "id": "evidence:21:4",
+      "label": "p.4",
+      "subtitle": "wish to compute the value of a policy pi according to the maximum entropy objective in...",
+      "meta": {
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\oa\\pdfs\\Haarnoja2018_1801.01290.pdf",
+        "quote_page_num": "4",
+        "quote_confidence": "high",
+        "semantic_verdict": "supported",
+        "status": "false",
+        "evidence_note": "manual local-quote override: Haarnoja supports the maximum-entropy policy objective used to define the entropy term. Provenance: Local PDF quote from docs/oa/pdfs/Haarnoja2018_1..."
+      }
+    },
+    {
+      "id": "evidence:23:1",
+      "label": "p.1",
+      "subtitle": "A standard and well-studied formulation for reinforcement learning with constraints is...",
+      "meta": {
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\citation_verification\\recovered_pdfs\\Achiam2017CPO_Constrained_Policy_Optimization.pdf",
+        "quote_page_num": "1",
+        "quote_confidence": "high",
+        "semantic_verdict": "supported",
+        "status": "false",
+        "evidence_note": "manual local-quote override: Achiam directly supports CMDPs as constrained RL with auxiliary costs. Provenance: Local PDF quote from docs/citation_verification/recovered_pdfs/Ac..."
+      }
+    },
+    {
+      "id": "evidence:28:2",
+      "label": "p.2",
+      "subtitle": "A constrained Markov decision process (CMDP) is an MDP augmented with constraints that...",
+      "meta": {
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\citation_verification\\recovered_pdfs\\Achiam2017CPO_Constrained_Policy_Optimization.pdf",
+        "quote_page_num": "2",
+        "quote_confidence": "high",
+        "semantic_verdict": "supported",
+        "status": "Achiam directly supports CMDP as an MDP augmented with constraints and auxiliary cost functions.",
+        "evidence_note": "manual local-quote override: we augment the MDP with a set C of auxiliary cost functions. Provenance: false Override file: docs/citation_verification/chapter3_chapter4_manual_qu..."
+      }
+    },
+    {
+      "id": "evidence:2:18",
+      "label": "p.18",
+      "subtitle": "This work applied RL algorithms, including Q-learning, DQN, and DDPG, to optimize the o...",
+      "meta": {
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\hub\\papers\\Theme_05_Battery_Storage_EV\\056_Performance_Assessment_and_Comparative_Analysis_of_Photovoltaic_Battery_System_S.pdf",
+        "quote_page_num": "18",
+        "quote_confidence": "high",
+        "semantic_verdict": "supported",
+        "status": "false",
+        "evidence_note": "manual local-quote override: Xu et al. directly support RL use for building energy-system operation and real-time electricity-market cost minimisation. Provenance: Local PDF/tex..."
+      }
+    },
+    {
+      "id": "evidence:3:1",
+      "label": "p.1",
+      "subtitle": "In this paper, a performance comparison of different DRL algorithms, including DDPG, TD...",
+      "meta": {
+        "pdf_path": "E:\\RP1\\RP1_main\\scripts_sd_ai_automation\\refs\\Hou2022Arxiv_2208.00728v1.pdf",
+        "quote_page_num": "1",
+        "quote_confidence": "high",
+        "semantic_verdict": "supported",
+        "status": "false",
+        "evidence_note": "manual local-quote override: Hou et al. directly support the named algorithm comparison in an energy-system scheduling benchmark. Provenance: Local PDF/text extraction: .tmp/ch3..."
+      }
+    },
+    {
+      "id": "evidence:7:102",
+      "label": "p.102",
+      "subtitle": "Because a finite MDP has only a finite number of deterministic policies, this process m...",
+      "meta": {
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\citation_verification\\recovered_pdfs\\Sutton2018_Reinforcement_Learning_An_Introduction.pdf",
+        "quote_page_num": "102",
+        "quote_confidence": "high",
+        "semantic_verdict": "supported",
+        "status": "false",
+        "evidence_note": "Quote covers the core claim terms: ['deterministic', 'optimal', 'policies', 'policy']."
+      }
+    },
+    {
+      "id": "evidence:8:1",
+      "label": "p.1",
+      "subtitle": "We use a deep convolutional neural network to approximate the optimal action-value func...",
+      "meta": {
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\hub\\papers\\Theme_01_DRL_SAC_Policy_Optimization\\045_Human_level_control_through_deep_reinforcement_learning.pdf",
+        "quote_page_num": "1",
+        "quote_confidence": "high",
+        "semantic_verdict": "supported",
+        "status": "false",
+        "evidence_note": "manual local-quote override: Mnih et al. directly support neural-network approximation of action-value functions in deep reinforcement learning. Provenance: Local PDF quote from..."
+      }
+    },
+    {
+      "id": "evidence:9:359",
+      "label": "p.359",
+      "subtitle": "Policy-gradient methods update the policy parameter on each step in the direction of an...",
+      "meta": {
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\citation_verification\\recovered_pdfs\\Sutton2018_Reinforcement_Learning_An_Introduction.pdf",
+        "quote_page_num": "359",
+        "quote_confidence": "high",
+        "semantic_verdict": "supported",
+        "status": "false",
+        "evidence_note": "manual local-quote override: Sutton directly supports policy-gradient updates with respect to policy parameters. Provenance: Local PDF quote from docs/citation_verification/reco..."
+      }
+    },
+    {
+      "id": "source:Achiam2017CPO",
+      "label": "Achiam2017CPO",
+      "subtitle": "Constrained Policy Optimization",
+      "meta": {
+        "citation_key": "Achiam2017CPO",
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\citation_verification\\recovered_pdfs\\Achiam2017CPO_Constrained_Policy_Optimization.pdf",
+        "mapping_status": "strong_pdf_match"
+      }
+    },
+    {
+      "id": "source:Gao2024LinearRL",
+      "label": "Gao2024LinearRL",
+      "subtitle": "Linear Reinforcement Learning for Energy Storage Systems Optimal Dispatch",
+      "meta": {
+        "citation_key": "Gao2024LinearRL",
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\LITERATURE_REVIEW_battery_scheduling_dynamic_tariffs_papers\\Theme_D_Benchmarking_MILP_vs_DRL\\D8_Linear_Reinforcement_Learning_for_Energy_Storage_Systems_Optimal_Dispatch.pdf",
+        "mapping_status": "strong_pdf_match"
+      }
+    },
+    {
+      "id": "source:Haarnoja2018",
+      "label": "Haarnoja2018",
+      "subtitle": "Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stocha...",
+      "meta": {
+        "citation_key": "Haarnoja2018",
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\oa\\pdfs\\Haarnoja2018_1801.01290.pdf",
+        "mapping_status": "strong_pdf_match"
+      }
+    },
+    {
+      "id": "source:Hou2022Arxiv",
+      "label": "Hou2022Arxiv",
+      "subtitle": "Performance Comparison of Deep RL Algorithms for Energy Systems Optimal Scheduling",
+      "meta": {
+        "citation_key": "Hou2022Arxiv",
+        "pdf_path": "E:\\RP1\\RP1_main\\scripts_sd_ai_automation\\refs\\Hou2022Arxiv_2208.00728v1.pdf",
+        "mapping_status": "strong_pdf_match"
+      }
+    },
+    {
+      "id": "source:Sutton2018",
+      "label": "Sutton2018",
+      "subtitle": "Reinforcement learning: An introduction",
+      "meta": {
+        "citation_key": "Sutton2018",
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\citation_verification\\recovered_pdfs\\Sutton2018_Reinforcement_Learning_An_Introduction.pdf",
+        "mapping_status": "strong_pdf_match"
+      }
+    },
+    {
+      "id": "source:XuLiHeXuGao2023",
+      "label": "XuLiHeXuGao2023",
+      "subtitle": "Performance Assessment and Comparative Analysis of Photovoltaic-Battery System Scheduli...",
+      "meta": {
+        "citation_key": "XuLiHeXuGao2023",
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\hub\\papers\\Theme_05_Battery_Storage_EV\\056_Performance_Assessment_and_Comparative_Analysis_of_Photovoltaic_Battery_System_S.pdf",
+        "mapping_status": "usable_pdf_match"
+      }
+    },
+    {
+      "id": "source:mnihHumanlevelControlDeep2015",
+      "label": "mnihHumanlevelControlDeep2015",
+      "subtitle": "Human-level control through deep reinforcement learning",
+      "meta": {
+        "citation_key": "mnihHumanlevelControlDeep2015",
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\hub\\papers\\Theme_01_DRL_SAC_Policy_Optimization\\045_Human_level_control_through_deep_reinforcement_learning.pdf",
+        "mapping_status": "strong_pdf_match"
+      }
+    },
+    {
+      "id": "source:nakabiDeepReinforcementLearning2021",
+      "label": "nakabiDeepReinforcementLearning2021",
+      "subtitle": "Deep reinforcement learning for energy management in a microgrid with flexible demand",
+      "meta": {
+        "citation_key": "nakabiDeepReinforcementLearning2021",
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\hub\\papers\\Theme_01_DRL_SAC_Policy_Optimization\\nakabiDeepReinforcementLearning2021_Deep_reinforcement_learning_for_energy_management_in_a_microgrid_with_flexible_demand.pdf",
+        "mapping_status": "strong_pdf_match"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "claim:1",
+      "target": "source:nakabiDeepReinforcementLearning2021",
+      "relation": "cites"
+    },
+    {
+      "source": "claim:11",
+      "target": "source:Haarnoja2018",
+      "relation": "cites"
+    },
+    {
+      "source": "claim:13",
+      "target": "source:mnihHumanlevelControlDeep2015",
+      "relation": "cites"
+    },
+    {
+      "source": "claim:14",
+      "target": "source:Haarnoja2018",
+      "relation": "cites"
+    },
+    {
+      "source": "claim:16",
+      "target": "source:Gao2024LinearRL",
+      "relation": "cites"
+    },
+    {
+      "source": "claim:18",
+      "target": "source:Haarnoja2018",
+      "relation": "cites"
+    },
+    {
+      "source": "claim:19",
+      "target": "source:Haarnoja2018",
+      "relation": "cites"
+    },
+    {
+      "source": "claim:2",
+      "target": "source:XuLiHeXuGao2023",
+      "relation": "cites"
+    },
+    {
+      "source": "claim:20",
+      "target": "source:Haarnoja2018",
+      "relation": "cites"
+    },
+    {
+      "source": "claim:21",
+      "target": "source:Haarnoja2018",
+      "relation": "cites"
+    },
+    {
+      "source": "claim:23",
+      "target": "source:Achiam2017CPO",
+      "relation": "cites"
+    },
+    {
+      "source": "claim:28",
+      "target": "source:Achiam2017CPO",
+      "relation": "cites"
+    },
+    {
+      "source": "claim:3",
+      "target": "source:Hou2022Arxiv",
+      "relation": "cites"
+    },
+    {
+      "source": "claim:7",
+      "target": "source:Sutton2018",
+      "relation": "cites"
+    },
+    {
+      "source": "claim:8",
+      "target": "source:mnihHumanlevelControlDeep2015",
+      "relation": "cites"
+    },
+    {
+      "source": "claim:9",
+      "target": "source:Sutton2018",
+      "relation": "cites"
+    },
+    {
+      "source": "evidence:11:1",
+      "target": "concept:citation_governance",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:11:1",
+      "target": "concept:drl_sac_control",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:13:1",
+      "target": "concept:citation_governance",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:13:1",
+      "target": "concept:drl_sac_control",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:13:1",
+      "target": "concept:network_assumption",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:14:1",
+      "target": "concept:citation_governance",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:14:1",
+      "target": "concept:drl_sac_control",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:14:1",
+      "target": "concept:network_assumption",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:16:7",
+      "target": "concept:battery_dynamics",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:16:7",
+      "target": "concept:benchmark_fairness",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:16:7",
+      "target": "concept:citation_governance",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:16:7",
+      "target": "concept:drl_sac_control",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:16:7",
+      "target": "concept:safety_projection",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:16:7",
+      "target": "concept:tariff_settlement",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:18:4",
+      "target": "concept:citation_governance",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:18:4",
+      "target": "concept:drl_sac_control",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:19:3",
+      "target": "concept:citation_governance",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:19:3",
+      "target": "concept:drl_sac_control",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:1:4",
+      "target": "concept:citation_governance",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:1:4",
+      "target": "concept:drl_sac_control",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:1:4",
+      "target": "concept:tariff_settlement",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:20:3",
+      "target": "concept:citation_governance",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:20:3",
+      "target": "concept:drl_sac_control",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:21:4",
+      "target": "concept:citation_governance",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:21:4",
+      "target": "concept:drl_sac_control",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:23:1",
+      "target": "concept:citation_governance",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:23:1",
+      "target": "concept:drl_sac_control",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:23:1",
+      "target": "concept:safety_projection",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:28:2",
+      "target": "concept:citation_governance",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:28:2",
+      "target": "concept:drl_sac_control",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:28:2",
+      "target": "concept:safety_projection",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:2:18",
+      "target": "concept:battery_dynamics",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:2:18",
+      "target": "concept:citation_governance",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:2:18",
+      "target": "concept:tariff_settlement",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:3:1",
+      "target": "concept:benchmark_fairness",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:3:1",
+      "target": "concept:citation_governance",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:3:1",
+      "target": "concept:drl_sac_control",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:3:1",
+      "target": "concept:safety_projection",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:7:102",
+      "target": "concept:citation_governance",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:7:102",
+      "target": "concept:drl_sac_control",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:8:1",
+      "target": "concept:citation_governance",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:8:1",
+      "target": "concept:drl_sac_control",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:8:1",
+      "target": "concept:network_assumption",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:9:359",
+      "target": "concept:citation_governance",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:9:359",
+      "target": "concept:drl_sac_control",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "source:Achiam2017CPO",
+      "target": "evidence:23:1",
+      "relation": "contains_evidence"
+    },
+    {
+      "source": "source:Achiam2017CPO",
+      "target": "evidence:28:2",
+      "relation": "contains_evidence"
+    },
+    {
+      "source": "source:Gao2024LinearRL",
+      "target": "evidence:16:7",
+      "relation": "contains_evidence"
+    },
+    {
+      "source": "source:Haarnoja2018",
+      "target": "evidence:11:1",
+      "relation": "contains_evidence"
+    },
+    {
+      "source": "source:Haarnoja2018",
+      "target": "evidence:14:1",
+      "relation": "contains_evidence"
+    },
+    {
+      "source": "source:Haarnoja2018",
+      "target": "evidence:18:4",
+      "relation": "contains_evidence"
+    },
+    {
+      "source": "source:Haarnoja2018",
+      "target": "evidence:19:3",
+      "relation": "contains_evidence"
+    },
+    {
+      "source": "source:Haarnoja2018",
+      "target": "evidence:20:3",
+      "relation": "contains_evidence"
+    },
+    {
+      "source": "source:Haarnoja2018",
+      "target": "evidence:21:4",
+      "relation": "contains_evidence"
+    },
+    {
+      "source": "source:Hou2022Arxiv",
+      "target": "evidence:3:1",
+      "relation": "contains_evidence"
+    },
+    {
+      "source": "source:Sutton2018",
+      "target": "evidence:7:102",
+      "relation": "contains_evidence"
+    },
+    {
+      "source": "source:Sutton2018",
+      "target": "evidence:9:359",
+      "relation": "contains_evidence"
+    },
+    {
+      "source": "source:XuLiHeXuGao2023",
+      "target": "evidence:2:18",
+      "relation": "contains_evidence"
+    },
+    {
+      "source": "source:mnihHumanlevelControlDeep2015",
+      "target": "evidence:13:1",
+      "relation": "contains_evidence"
+    },
+    {
+      "source": "source:mnihHumanlevelControlDeep2015",
+      "target": "evidence:8:1",
+      "relation": "contains_evidence"
+    },
+    {
+      "source": "source:nakabiDeepReinforcementLearning2021",
+      "target": "evidence:1:4",
+      "relation": "contains_evidence"
+    }
+  ]
+}

@@ -1,0 +1,506 @@
+{
+  "nodes": [
+    {
+      "id": "claim:15",
+      "label": "Claim L78",
+      "subtitle": "Energy-system RL comparisons show that algorithm choice, penalty coefficients, and func...",
+      "meta": {
+        "row_id": "15",
+        "line_number": "78",
+        "semantic_verdict": "supported"
+      }
+    },
+    {
+      "id": "claim:16",
+      "label": "Claim L78",
+      "subtitle": "Energy-system RL comparisons show that algorithm choice, penalty coefficients, and func...",
+      "meta": {
+        "row_id": "16",
+        "line_number": "78",
+        "semantic_verdict": "supported"
+      }
+    },
+    {
+      "id": "claim:2",
+      "label": "Claim L25",
+      "subtitle": "Xu et al.\\ apply RL to building energy-system operation with battery charge/discharge a...",
+      "meta": {
+        "row_id": "2",
+        "line_number": "25",
+        "semantic_verdict": "supported"
+      }
+    },
+    {
+      "id": "claim:23",
+      "label": "Claim L142",
+      "subtitle": "CMDP formulations expose auxiliary safety costs and constraints explicitly",
+      "meta": {
+        "row_id": "23",
+        "line_number": "142",
+        "semantic_verdict": "supported"
+      }
+    },
+    {
+      "id": "claim:26",
+      "label": "Claim L41",
+      "subtitle": "Penalty-based constraint handling is common in energy-system DRL",
+      "meta": {
+        "row_id": "26",
+        "line_number": "41",
+        "semantic_verdict": "supported"
+      }
+    },
+    {
+      "id": "claim:28",
+      "label": "Claim L43",
+      "subtitle": "A constrained MDP (CMDP) augments the MDP with auxiliary cost functions and constraint...",
+      "meta": {
+        "row_id": "28",
+        "line_number": "43",
+        "semantic_verdict": "supported"
+      }
+    },
+    {
+      "id": "claim:3",
+      "label": "Claim L29",
+      "subtitle": "Hou et al.\\ compare DDPG, TD3, SAC, and PPO with a mathematical-programming model for e...",
+      "meta": {
+        "row_id": "3",
+        "line_number": "29",
+        "semantic_verdict": "supported"
+      }
+    },
+    {
+      "id": "claim:4",
+      "label": "Claim L29",
+      "subtitle": "Xu et al.\\ compare RL variants with rule-based operation for building energy-system con...",
+      "meta": {
+        "row_id": "4",
+        "line_number": "29",
+        "semantic_verdict": "supported"
+      }
+    },
+    {
+      "id": "concept:battery_dynamics",
+      "label": "battery dynamics",
+      "subtitle": "concept",
+      "meta": {
+        "concept": "battery_dynamics"
+      }
+    },
+    {
+      "id": "concept:benchmark_fairness",
+      "label": "benchmark fairness",
+      "subtitle": "concept",
+      "meta": {
+        "concept": "benchmark_fairness"
+      }
+    },
+    {
+      "id": "concept:citation_governance",
+      "label": "citation governance",
+      "subtitle": "concept",
+      "meta": {
+        "concept": "citation_governance"
+      }
+    },
+    {
+      "id": "concept:drl_sac_control",
+      "label": "drl sac control",
+      "subtitle": "concept",
+      "meta": {
+        "concept": "drl_sac_control"
+      }
+    },
+    {
+      "id": "concept:safety_projection",
+      "label": "safety projection",
+      "subtitle": "concept",
+      "meta": {
+        "concept": "safety_projection"
+      }
+    },
+    {
+      "id": "concept:scaling_generalization",
+      "label": "scaling generalization",
+      "subtitle": "concept",
+      "meta": {
+        "concept": "scaling_generalization"
+      }
+    },
+    {
+      "id": "concept:tariff_settlement",
+      "label": "tariff settlement",
+      "subtitle": "concept",
+      "meta": {
+        "concept": "tariff_settlement"
+      }
+    },
+    {
+      "id": "evidence:15:1",
+      "label": "p.1",
+      "subtitle": "DRL algorithms must consider a trade-off when designing the reward function. This trade...",
+      "meta": {
+        "pdf_path": "E:\\RP1\\RP1_main\\scripts_sd_ai_automation\\refs\\Hou2022Arxiv_2208.00728v1.pdf",
+        "quote_page_num": "1",
+        "quote_confidence": "high",
+        "semantic_verdict": "supported",
+        "status": "false",
+        "evidence_note": "manual local-quote override: Hou et al. directly support the claim that penalty/reward design and hyperparameters affect feasibility and performance in energy-system DRL compari..."
+      }
+    },
+    {
+      "id": "evidence:16:7",
+      "label": "p.7",
+      "subtitle": "The disparities in RL agent performance are due to the nature of their function approxi...",
+      "meta": {
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\LITERATURE_REVIEW_battery_scheduling_dynamic_tariffs_papers\\Theme_D_Benchmarking_MILP_vs_DRL\\D8_Linear_Reinforcement_Learning_for_Energy_Storage_Systems_Optimal_Dispatch.pdf",
+        "quote_page_num": "7",
+        "quote_confidence": "high",
+        "semantic_verdict": "supported",
+        "status": "false",
+        "evidence_note": "manual local-quote override: Gao et al. directly support the function-approximation part of the sentence for ESS dispatch RL performance differences. Provenance: Local PDF/text..."
+      }
+    },
+    {
+      "id": "evidence:23:1",
+      "label": "p.1",
+      "subtitle": "A standard and well-studied formulation for reinforcement learning with constraints is...",
+      "meta": {
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\citation_verification\\recovered_pdfs\\Achiam2017CPO_Constrained_Policy_Optimization.pdf",
+        "quote_page_num": "1",
+        "quote_confidence": "high",
+        "semantic_verdict": "supported",
+        "status": "false",
+        "evidence_note": "manual local-quote override: Achiam directly supports CMDPs as constrained RL with auxiliary costs. Provenance: Local PDF quote from docs/citation_verification/recovered_pdfs/Ac..."
+      }
+    },
+    {
+      "id": "evidence:26:2",
+      "label": "p.2",
+      "subtitle": "Enforcing technical constraints using a penalty term in the reward function is one of t...",
+      "meta": {
+        "pdf_path": "E:\\RP1\\RP1_main\\scripts_sd_ai_automation\\refs\\Hou2022Arxiv_2208.00728v1.pdf",
+        "quote_page_num": "2",
+        "quote_confidence": "high",
+        "semantic_verdict": "supported",
+        "status": "false",
+        "evidence_note": "manual local-quote override: Hou et al. directly support penalty-based constraint handling as a common approach in energy-system DRL. Provenance: Local PDF/text extraction: .tmp..."
+      }
+    },
+    {
+      "id": "evidence:28:2",
+      "label": "p.2",
+      "subtitle": "A constrained Markov decision process (CMDP) is an MDP augmented with constraints that...",
+      "meta": {
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\citation_verification\\recovered_pdfs\\Achiam2017CPO_Constrained_Policy_Optimization.pdf",
+        "quote_page_num": "2",
+        "quote_confidence": "high",
+        "semantic_verdict": "supported",
+        "status": "Achiam directly supports CMDP as an MDP augmented with constraints and auxiliary cost functions.",
+        "evidence_note": "manual local-quote override: we augment the MDP with a set C of auxiliary cost functions. Provenance: false Override file: docs/citation_verification/chapter3_chapter4_manual_qu..."
+      }
+    },
+    {
+      "id": "evidence:2:18",
+      "label": "p.18",
+      "subtitle": "This work applied RL algorithms, including Q-learning, DQN, and DDPG, to optimize the o...",
+      "meta": {
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\hub\\papers\\Theme_05_Battery_Storage_EV\\056_Performance_Assessment_and_Comparative_Analysis_of_Photovoltaic_Battery_System_S.pdf",
+        "quote_page_num": "18",
+        "quote_confidence": "high",
+        "semantic_verdict": "supported",
+        "status": "false",
+        "evidence_note": "manual local-quote override: Xu et al. directly support RL use for building energy-system operation and real-time electricity-market cost minimisation. Provenance: Local PDF/tex..."
+      }
+    },
+    {
+      "id": "evidence:3:1",
+      "label": "p.1",
+      "subtitle": "In this paper, a performance comparison of different DRL algorithms, including DDPG, TD...",
+      "meta": {
+        "pdf_path": "E:\\RP1\\RP1_main\\scripts_sd_ai_automation\\refs\\Hou2022Arxiv_2208.00728v1.pdf",
+        "quote_page_num": "1",
+        "quote_confidence": "high",
+        "semantic_verdict": "supported",
+        "status": "false",
+        "evidence_note": "manual local-quote override: Hou et al. directly support the named algorithm comparison in an energy-system scheduling benchmark. Provenance: Local PDF/text extraction: .tmp/ch3..."
+      }
+    },
+    {
+      "id": "evidence:4:16",
+      "label": "p.16",
+      "subtitle": "Table 4. Operation results of optimization based on rule-based, Q-learning, DQN, and DD...",
+      "meta": {
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\hub\\papers\\Theme_05_Battery_Storage_EV\\056_Performance_Assessment_and_Comparative_Analysis_of_Photovoltaic_Battery_System_S.pdf",
+        "quote_page_num": "16",
+        "quote_confidence": "high",
+        "semantic_verdict": "supported",
+        "status": "false",
+        "evidence_note": "manual local-quote override: Xu et al. directly support comparison of RL variants with rule-based operation in building energy-system control. Provenance: Local PDF/text extract..."
+      }
+    },
+    {
+      "id": "source:Achiam2017CPO",
+      "label": "Achiam2017CPO",
+      "subtitle": "Constrained Policy Optimization",
+      "meta": {
+        "citation_key": "Achiam2017CPO",
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\citation_verification\\recovered_pdfs\\Achiam2017CPO_Constrained_Policy_Optimization.pdf",
+        "mapping_status": "strong_pdf_match"
+      }
+    },
+    {
+      "id": "source:Gao2024LinearRL",
+      "label": "Gao2024LinearRL",
+      "subtitle": "Linear Reinforcement Learning for Energy Storage Systems Optimal Dispatch",
+      "meta": {
+        "citation_key": "Gao2024LinearRL",
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\LITERATURE_REVIEW_battery_scheduling_dynamic_tariffs_papers\\Theme_D_Benchmarking_MILP_vs_DRL\\D8_Linear_Reinforcement_Learning_for_Energy_Storage_Systems_Optimal_Dispatch.pdf",
+        "mapping_status": "strong_pdf_match"
+      }
+    },
+    {
+      "id": "source:Hou2022Arxiv",
+      "label": "Hou2022Arxiv",
+      "subtitle": "Performance Comparison of Deep RL Algorithms for Energy Systems Optimal Scheduling",
+      "meta": {
+        "citation_key": "Hou2022Arxiv",
+        "pdf_path": "E:\\RP1\\RP1_main\\scripts_sd_ai_automation\\refs\\Hou2022Arxiv_2208.00728v1.pdf",
+        "mapping_status": "strong_pdf_match"
+      }
+    },
+    {
+      "id": "source:XuLiHeXuGao2023",
+      "label": "XuLiHeXuGao2023",
+      "subtitle": "Performance Assessment and Comparative Analysis of Photovoltaic-Battery System Scheduli...",
+      "meta": {
+        "citation_key": "XuLiHeXuGao2023",
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\hub\\papers\\Theme_05_Battery_Storage_EV\\056_Performance_Assessment_and_Comparative_Analysis_of_Photovoltaic_Battery_System_S.pdf",
+        "mapping_status": "usable_pdf_match"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "claim:15",
+      "target": "source:Hou2022Arxiv",
+      "relation": "cites"
+    },
+    {
+      "source": "claim:16",
+      "target": "source:Gao2024LinearRL",
+      "relation": "cites"
+    },
+    {
+      "source": "claim:2",
+      "target": "source:XuLiHeXuGao2023",
+      "relation": "cites"
+    },
+    {
+      "source": "claim:23",
+      "target": "source:Achiam2017CPO",
+      "relation": "cites"
+    },
+    {
+      "source": "claim:26",
+      "target": "source:Hou2022Arxiv",
+      "relation": "cites"
+    },
+    {
+      "source": "claim:28",
+      "target": "source:Achiam2017CPO",
+      "relation": "cites"
+    },
+    {
+      "source": "claim:3",
+      "target": "source:Hou2022Arxiv",
+      "relation": "cites"
+    },
+    {
+      "source": "claim:4",
+      "target": "source:XuLiHeXuGao2023",
+      "relation": "cites"
+    },
+    {
+      "source": "evidence:15:1",
+      "target": "concept:citation_governance",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:15:1",
+      "target": "concept:drl_sac_control",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:15:1",
+      "target": "concept:safety_projection",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:16:7",
+      "target": "concept:battery_dynamics",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:16:7",
+      "target": "concept:benchmark_fairness",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:16:7",
+      "target": "concept:citation_governance",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:16:7",
+      "target": "concept:drl_sac_control",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:16:7",
+      "target": "concept:safety_projection",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:16:7",
+      "target": "concept:tariff_settlement",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:23:1",
+      "target": "concept:citation_governance",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:23:1",
+      "target": "concept:drl_sac_control",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:23:1",
+      "target": "concept:safety_projection",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:26:2",
+      "target": "concept:citation_governance",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:26:2",
+      "target": "concept:drl_sac_control",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:26:2",
+      "target": "concept:safety_projection",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:28:2",
+      "target": "concept:citation_governance",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:28:2",
+      "target": "concept:drl_sac_control",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:28:2",
+      "target": "concept:safety_projection",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:2:18",
+      "target": "concept:battery_dynamics",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:2:18",
+      "target": "concept:citation_governance",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:2:18",
+      "target": "concept:tariff_settlement",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:3:1",
+      "target": "concept:benchmark_fairness",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:3:1",
+      "target": "concept:citation_governance",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:3:1",
+      "target": "concept:drl_sac_control",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:3:1",
+      "target": "concept:safety_projection",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:4:16",
+      "target": "concept:battery_dynamics",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:4:16",
+      "target": "concept:citation_governance",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:4:16",
+      "target": "concept:scaling_generalization",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "source:Achiam2017CPO",
+      "target": "evidence:23:1",
+      "relation": "contains_evidence"
+    },
+    {
+      "source": "source:Achiam2017CPO",
+      "target": "evidence:28:2",
+      "relation": "contains_evidence"
+    },
+    {
+      "source": "source:Gao2024LinearRL",
+      "target": "evidence:16:7",
+      "relation": "contains_evidence"
+    },
+    {
+      "source": "source:Hou2022Arxiv",
+      "target": "evidence:15:1",
+      "relation": "contains_evidence"
+    },
+    {
+      "source": "source:Hou2022Arxiv",
+      "target": "evidence:26:2",
+      "relation": "contains_evidence"
+    },
+    {
+      "source": "source:Hou2022Arxiv",
+      "target": "evidence:3:1",
+      "relation": "contains_evidence"
+    },
+    {
+      "source": "source:XuLiHeXuGao2023",
+      "target": "evidence:2:18",
+      "relation": "contains_evidence"
+    },
+    {
+      "source": "source:XuLiHeXuGao2023",
+      "target": "evidence:4:16",
+      "relation": "contains_evidence"
+    }
+  ]
+}

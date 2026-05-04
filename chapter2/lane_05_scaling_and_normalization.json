@@ -1,0 +1,1285 @@
+{
+  "nodes": [
+    {
+      "id": "claim:1",
+      "label": "Claim L12",
+      "subtitle": "It is to show why a credible comparison between optimisation and DRL should make bounda...",
+      "meta": {
+        "row_id": "1",
+        "line_number": "12",
+        "semantic_verdict": "partial"
+      }
+    },
+    {
+      "id": "claim:10",
+      "label": "Claim L76",
+      "subtitle": "In liberalised electricity systems, the scheduling of electricity use is shaped not onl...",
+      "meta": {
+        "row_id": "10",
+        "line_number": "76",
+        "semantic_verdict": ""
+      }
+    },
+    {
+      "id": "claim:15",
+      "label": "Claim L78",
+      "subtitle": "For this reason, residential EMS studies are often more informative when they do not as...",
+      "meta": {
+        "row_id": "15",
+        "line_number": "78",
+        "semantic_verdict": "supported"
+      }
+    },
+    {
+      "id": "claim:16",
+      "label": "Claim L78",
+      "subtitle": "For this reason, residential EMS studies are often more informative when they do not as...",
+      "meta": {
+        "row_id": "16",
+        "line_number": "78",
+        "semantic_verdict": "partial"
+      }
+    },
+    {
+      "id": "claim:17",
+      "label": "Claim L80",
+      "subtitle": "Because investment, supply, and dispatch decisions are distributed across competing firms",
+      "meta": {
+        "row_id": "17",
+        "line_number": "80",
+        "semantic_verdict": "partial"
+      }
+    },
+    {
+      "id": "claim:20",
+      "label": "Claim L82",
+      "subtitle": "Second, low-voltage congestion is increasingly treated as an explicit constraint or pen...",
+      "meta": {
+        "row_id": "20",
+        "line_number": "82",
+        "semantic_verdict": "partial"
+      }
+    },
+    {
+      "id": "claim:25",
+      "label": "Claim L101",
+      "subtitle": "However, these approaches become more difficult to scale under uncertainty and forecast...",
+      "meta": {
+        "row_id": "25",
+        "line_number": "101",
+        "semantic_verdict": "supported"
+      }
+    },
+    {
+      "id": "claim:26",
+      "label": "Claim L101",
+      "subtitle": "However, these approaches become more difficult to scale under uncertainty and forecast...",
+      "meta": {
+        "row_id": "26",
+        "line_number": "101",
+        "semantic_verdict": "supported"
+      }
+    },
+    {
+      "id": "claim:27",
+      "label": "Claim L103",
+      "subtitle": "Demand response, by contrast, is the branch of demand-side management concerned with in...",
+      "meta": {
+        "row_id": "27",
+        "line_number": "103",
+        "semantic_verdict": "partial"
+      }
+    },
+    {
+      "id": "claim:29",
+      "label": "Claim L103",
+      "subtitle": "remain important in this context because they formalised the canonical distinction betw...",
+      "meta": {
+        "row_id": "29",
+        "line_number": "103",
+        "semantic_verdict": "partial"
+      }
+    },
+    {
+      "id": "claim:31",
+      "label": "Claim L105",
+      "subtitle": "For learning-based control, recent behind-the-meter DRL work describes model-free DRL a...",
+      "meta": {
+        "row_id": "31",
+        "line_number": "105",
+        "semantic_verdict": "supported"
+      }
+    },
+    {
+      "id": "claim:32",
+      "label": "Claim L107",
+      "subtitle": "More recent building-oriented reviews indicate that, in building applications, demand r...",
+      "meta": {
+        "row_id": "32",
+        "line_number": "107",
+        "semantic_verdict": "partial"
+      }
+    },
+    {
+      "id": "claim:33",
+      "label": "Claim L107",
+      "subtitle": "In that setting, the earlier distinction between price-based and incentive-based respon...",
+      "meta": {
+        "row_id": "33",
+        "line_number": "107",
+        "semantic_verdict": "supported"
+      }
+    },
+    {
+      "id": "claim:35",
+      "label": "Claim L124",
+      "subtitle": "By contrast, formulations that explicitly represent network or community constraints ca...",
+      "meta": {
+        "row_id": "35",
+        "line_number": "124",
+        "semantic_verdict": "partial"
+      }
+    },
+    {
+      "id": "claim:36",
+      "label": "Claim L124",
+      "subtitle": "By contrast, formulations that explicitly represent network or community constraints ca...",
+      "meta": {
+        "row_id": "36",
+        "line_number": "124",
+        "semantic_verdict": "partial"
+      }
+    },
+    {
+      "id": "claim:37",
+      "label": "Claim L124",
+      "subtitle": "In Dutch policy discussions, congestion and capacity-sensitive tariffs make these bound...",
+      "meta": {
+        "row_id": "37",
+        "line_number": "124",
+        "semantic_verdict": ""
+      }
+    },
+    {
+      "id": "claim:41",
+      "label": "Claim L166",
+      "subtitle": "& Coordination gain, congestion relief, fairness",
+      "meta": {
+        "row_id": "41",
+        "line_number": "166",
+        "semantic_verdict": "partial"
+      }
+    },
+    {
+      "id": "claim:42",
+      "label": "Claim L173",
+      "subtitle": "Within the network-aware archetype, is one representative formulation relevant to the D...",
+      "meta": {
+        "row_id": "42",
+        "line_number": "173",
+        "semantic_verdict": "supported"
+      }
+    },
+    {
+      "id": "claim:44",
+      "label": "Claim L185",
+      "subtitle": "The choice of information available at decision time is therefore as important as the p...",
+      "meta": {
+        "row_id": "44",
+        "line_number": "185",
+        "semantic_verdict": "partial"
+      }
+    },
+    {
+      "id": "claim:46",
+      "label": "Claim L203",
+      "subtitle": "In HEMS benchmark studies, model-based baselines are often useful when objectives, oper...",
+      "meta": {
+        "row_id": "46",
+        "line_number": "203",
+        "semantic_verdict": "partial"
+      }
+    },
+    {
+      "id": "claim:47",
+      "label": "Claim L203",
+      "subtitle": "First, their performance depends strongly on forecast quality, so degraded PV or demand...",
+      "meta": {
+        "row_id": "47",
+        "line_number": "203",
+        "semantic_verdict": "partial"
+      }
+    },
+    {
+      "id": "claim:49",
+      "label": "Claim L203",
+      "subtitle": "Third, real-time deployment becomes more demanding as horizon length, device granularit...",
+      "meta": {
+        "row_id": "49",
+        "line_number": "203",
+        "semantic_verdict": "partial"
+      }
+    },
+    {
+      "id": "claim:51",
+      "label": "Claim L209",
+      "subtitle": "When such baselines are compared with DRL, one practical contrast concerns forecast dep...",
+      "meta": {
+        "row_id": "51",
+        "line_number": "209",
+        "semantic_verdict": "partial"
+      }
+    },
+    {
+      "id": "claim:52",
+      "label": "Claim L229",
+      "subtitle": "RBC commonly reacts to present or rule-triggering observations",
+      "meta": {
+        "row_id": "52",
+        "line_number": "229",
+        "semantic_verdict": "partial"
+      }
+    },
+    {
+      "id": "concept:battery_dynamics",
+      "label": "battery dynamics",
+      "subtitle": "concept",
+      "meta": {
+        "concept": "battery_dynamics"
+      }
+    },
+    {
+      "id": "concept:benchmark_fairness",
+      "label": "benchmark fairness",
+      "subtitle": "concept",
+      "meta": {
+        "concept": "benchmark_fairness"
+      }
+    },
+    {
+      "id": "concept:drl_sac_control",
+      "label": "drl sac control",
+      "subtitle": "concept",
+      "meta": {
+        "concept": "drl_sac_control"
+      }
+    },
+    {
+      "id": "concept:network_assumption",
+      "label": "network assumption",
+      "subtitle": "concept",
+      "meta": {
+        "concept": "network_assumption"
+      }
+    },
+    {
+      "id": "concept:safety_projection",
+      "label": "safety projection",
+      "subtitle": "concept",
+      "meta": {
+        "concept": "safety_projection"
+      }
+    },
+    {
+      "id": "concept:scaling_generalization",
+      "label": "scaling generalization",
+      "subtitle": "concept",
+      "meta": {
+        "concept": "scaling_generalization"
+      }
+    },
+    {
+      "id": "concept:scope_boundary",
+      "label": "scope boundary",
+      "subtitle": "concept",
+      "meta": {
+        "concept": "scope_boundary"
+      }
+    },
+    {
+      "id": "concept:tariff_settlement",
+      "label": "tariff settlement",
+      "subtitle": "concept",
+      "meta": {
+        "concept": "tariff_settlement"
+      }
+    },
+    {
+      "id": "concept:unclassified",
+      "label": "unclassified",
+      "subtitle": "concept",
+      "meta": {
+        "concept": "unclassified"
+      }
+    },
+    {
+      "id": "evidence:10:none",
+      "label": "p.n/a",
+      "subtitle": "",
+      "meta": {
+        "pdf_path": "",
+        "quote_page_num": "",
+        "quote_confidence": "",
+        "semantic_verdict": "",
+        "status": "",
+        "evidence_note": ""
+      }
+    },
+    {
+      "id": "evidence:15:2",
+      "label": "p.2",
+      "subtitle": "the method developed in this research study can be used to compare the sizing and energ...",
+      "meta": {
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\LITERATURE_REVIEW_battery_scheduling_dynamic_tariffs_papers\\Theme_A_MILP_Optimization_Approaches_for_Battery_Scheduling\\A6_Optimal_Sizing_and_Energy_Scheduling_of_Photovoltaic-Battery_Systems_Under_Different_Tariff_Structures.pdf",
+        "quote_page_num": "2",
+        "quote_confidence": "high",
+        "semantic_verdict": "supported",
+        "status": "false",
+        "evidence_note": "The passage directly supports the claim by demonstrating that comparing multiple tariff structures (TOU and demand tariffs) in residential EMS studies yields more informative re..."
+      }
+    },
+    {
+      "id": "evidence:16:94",
+      "label": "p.94",
+      "subtitle": "The designed integrated optimisation with a rule-based EMS is applied to the assumed pr...",
+      "meta": {
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\citation_verification\\recovered_pdfs\\from_root_staging\\Norouzi2025_Farshid_Norouzi_Final.pdf",
+        "quote_page_num": "94",
+        "quote_confidence": "high",
+        "semantic_verdict": "partial",
+        "status": "true",
+        "evidence_note": "The passage describes comparative analysis across pricing scenarios, which aligns with the claim's emphasis on assessing performance under multiple tariff regimes. However, it d..."
+      }
+    },
+    {
+      "id": "evidence:17:285",
+      "label": "p.285",
+      "subtitle": "respond easily by increasing their supply while the consumers can also respond quickly...",
+      "meta": {
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\hub\\papers\\Theme_12_Energy_Policy_Markets\\001_Regulation_of_Energy_Markets_Economic_Mechanisms_and_Policy_Evaluation.pdf",
+        "quote_page_num": "285",
+        "quote_confidence": "high",
+        "semantic_verdict": "partial",
+        "status": "true",
+        "evidence_note": "Passage addresses distributed decision-making by multiple firms in energy markets and competitive supply dynamics, but doesn't explicitly discuss investment and dispatch decisio..."
+      }
+    },
+    {
+      "id": "evidence:1:164",
+      "label": "p.164",
+      "subtitle": "The considered energy carriers, timestep size, control systems and optimization methods...",
+      "meta": {
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\citation_verification\\recovered_pdfs\\hoogsteen2017cyber_A_Cyber_Physical_Systems_Perspective_on_Decentralized_Energy_Management.pdf",
+        "quote_page_num": "164",
+        "quote_confidence": "high",
+        "semantic_verdict": "partial",
+        "status": "true",
+        "evidence_note": "The passage confirms that different tools vary in key technical dimensions (energy carriers, timestep size, control systems, optimization methods), supporting the need for expli..."
+      }
+    },
+    {
+      "id": "evidence:20:8",
+      "label": "p.8",
+      "subtitle": "weighting factors \u03c9 and \u03c9, k \u2208 {1,2,\u2026,n} for CO2, electricity cost, self-consumption, a...",
+      "meta": {
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\hub\\papers\\Theme_02_MARL_Cooperative_Multi_Agent\\007_A_novel_user_centric_decentralized_multi_objective_energy_management_system_for_.pdf",
+        "quote_page_num": "8",
+        "quote_confidence": "high",
+        "semantic_verdict": "partial",
+        "status": "true",
+        "evidence_note": "Passage confirms congestion is treated as an objective function in energy management systems, supporting the claim that congestion receives explicit treatment. However, it doesn..."
+      }
+    },
+    {
+      "id": "evidence:25:3",
+      "label": "p.3",
+      "subtitle": "However, conventional optimization methods require accurate mathematical models and par...",
+      "meta": {
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\hub\\papers\\Theme_01_DRL_SAC_Policy_Optimization\\066_Deep_Reinforcement_Learning_for_Smart_Grid_Operations_Algorithms_Applications.pdf",
+        "quote_page_num": "3",
+        "quote_confidence": "high",
+        "semantic_verdict": "supported",
+        "status": "true",
+        "evidence_note": "The passage directly addresses how conventional optimization methods struggle with accuracy requirements in complex systems, supporting the claim that explicit predictive models..."
+      }
+    },
+    {
+      "id": "evidence:26:3",
+      "label": "p.3",
+      "subtitle": "conventional optimization methods require accurate mathematical models and parameters,...",
+      "meta": {
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\hub\\papers\\Theme_01_DRL_SAC_Policy_Optimization\\066_Deep_Reinforcement_Learning_for_Smart_Grid_Operations_Algorithms_Applications.pdf",
+        "quote_page_num": "3",
+        "quote_confidence": "high",
+        "semantic_verdict": "supported",
+        "status": "true",
+        "evidence_note": "The passage directly supports the claim by explaining that conventional optimization methods struggle with uncertainty and complexity, motivating the turn toward alternative lea..."
+      }
+    },
+    {
+      "id": "evidence:27:2",
+      "label": "p.2",
+      "subtitle": "Demand response can be defined as the changes in electricity usage by end-use customers...",
+      "meta": {
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\hub\\papers\\Theme_06_Demand_Response_Tariffs\\019_A_summary_of_demand_response_in_electricity_markets.pdf",
+        "quote_page_num": "2",
+        "quote_confidence": "high",
+        "semantic_verdict": "partial",
+        "status": "true",
+        "evidence_note": "The passage begins defining demand response as changes in electricity usage by end-use customers, which aligns with the thesis's focus on consumption modification. However, the..."
+      }
+    },
+    {
+      "id": "evidence:29:2",
+      "label": "p.2",
+      "subtitle": "The paper starts with defining the Demand Response (DR) and how electricity consumers c...",
+      "meta": {
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\hub\\papers\\Theme_06_Demand_Response_Tariffs\\019_A_summary_of_demand_response_in_electricity_markets.pdf",
+        "quote_page_num": "2",
+        "quote_confidence": "high",
+        "semantic_verdict": "partial",
+        "status": "true",
+        "evidence_note": "The passage confirms the paper addresses DR taxonomy and program types (market-based, pricing scenarios), supporting the claim's core assertion about formalizing distinctions. H..."
+      }
+    },
+    {
+      "id": "evidence:31:3",
+      "label": "p.3",
+      "subtitle": "Model-free DRL, either value-based or policy-based, do not need to develop a model from...",
+      "meta": {
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\hub\\papers\\Theme_01_DRL_SAC_Policy_Optimization\\043_A_multi_agent_deep_reinforcement_learning_based_energy_management_for_behind_the.pdf",
+        "quote_page_num": "3",
+        "quote_confidence": "high",
+        "semantic_verdict": "supported",
+        "status": "false",
+        "evidence_note": "The passage directly confirms the claim that model-free DRL learns policies or state-action values directly, matching the thesis wording precisely."
+      }
+    },
+    {
+      "id": "evidence:32:2",
+      "label": "p.2",
+      "subtitle": "developing innovative control and optimizing methods to engage a wide range of devices...",
+      "meta": {
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\hub\\papers\\Theme_04_Building_Energy_HVAC\\028_Demand_response_optimization_for_smart_grid_integrated_buildings_Review_of_techn.pdf",
+        "quote_page_num": "2",
+        "quote_confidence": "high",
+        "semantic_verdict": "partial",
+        "status": "true",
+        "evidence_note": "The passage addresses automation and control methods for DR in buildings, supporting parts of the claim. However, it doesn't explicitly discuss implementation architecture, inte..."
+      }
+    },
+    {
+      "id": "evidence:33:2",
+      "label": "p.2",
+      "subtitle": "The paper starts with defining the Demand Response (DR) and how electricity consumers c...",
+      "meta": {
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\hub\\papers\\Theme_06_Demand_Response_Tariffs\\019_A_summary_of_demand_response_in_electricity_markets.pdf",
+        "quote_page_num": "2",
+        "quote_confidence": "medium",
+        "semantic_verdict": "supported",
+        "status": "true",
+        "evidence_note": "The passage explicitly discusses different DR program types including market-based and pricing scenarios, directly corresponding to the price-based versus incentive-based distin..."
+      }
+    },
+    {
+      "id": "evidence:35:8",
+      "label": "p.8",
+      "subtitle": "In SL and DOE-based designs, to provide network admissible limits or grid capacity, the...",
+      "meta": {
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\citation_verification\\recovered_pdfs\\Gorrasi2024_Comparison_of_market_designs_ensuring_network_integrity_in_low_voltage_distribution_systems_with_high_DER_penetration.pdf",
+        "quote_page_num": "8",
+        "quote_confidence": "high",
+        "semantic_verdict": "partial",
+        "status": "true",
+        "evidence_note": "The passage addresses network constraints in market designs and mentions network admissible limits, supporting the claim's focus on explicit network representation. However, it..."
+      }
+    },
+    {
+      "id": "evidence:36:12",
+      "label": "p.12",
+      "subtitle": "potentially lead to power congestion. This is particularly important in grids character...",
+      "meta": {
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\hub\\papers\\Theme_02_MARL_Cooperative_Multi_Agent\\007_A_novel_user_centric_decentralized_multi_objective_energy_management_system_for_.pdf",
+        "quote_page_num": "12",
+        "quote_confidence": "high",
+        "semantic_verdict": "partial",
+        "status": "true",
+        "evidence_note": "Passage addresses congestion constraints in energy systems and coordination mechanisms, supporting the claim's mention of congestion limits and coordination. However, it focuses..."
+      }
+    },
+    {
+      "id": "evidence:37:none",
+      "label": "p.n/a",
+      "subtitle": "",
+      "meta": {
+        "pdf_path": "",
+        "quote_page_num": "",
+        "quote_confidence": "",
+        "semantic_verdict": "",
+        "status": "",
+        "evidence_note": ""
+      }
+    },
+    {
+      "id": "evidence:41:12",
+      "label": "p.12",
+      "subtitle": "The DMOEMS results showed that smart coordination in the EC and the flexibility offered...",
+      "meta": {
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\hub\\papers\\Theme_02_MARL_Cooperative_Multi_Agent\\007_A_novel_user_centric_decentralized_multi_objective_energy_management_system_for_.pdf",
+        "quote_page_num": "12",
+        "quote_confidence": "high",
+        "semantic_verdict": "partial",
+        "status": "true",
+        "evidence_note": "Passage addresses coordination and congestion relief but does not mention fairness. Two of three claim components are supported by the cited text."
+      }
+    },
+    {
+      "id": "evidence:42:5",
+      "label": "p.5",
+      "subtitle": "The network-aware market operator balances markets, safeguards LVDS network constraints...",
+      "meta": {
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\citation_verification\\recovered_pdfs\\Gorrasi2024_Comparison_of_market_designs_ensuring_network_integrity_in_low_voltage_distribution_systems_with_high_DER_penetration.pdf",
+        "quote_page_num": "5",
+        "quote_confidence": "high",
+        "semantic_verdict": "supported",
+        "status": "false",
+        "evidence_note": "The passage directly addresses network-aware market design in low-voltage distribution systems (LVDS), matching the thesis claim's focus on a network-aware archetype relevant to..."
+      }
+    },
+    {
+      "id": "evidence:44:2",
+      "label": "p.2",
+      "subtitle": "Real-time decision-making generally employs a rule-based control approach or a fuzzy-lo...",
+      "meta": {
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\citation_verification\\recovered_pdfs\\Watari2021_Multi-time_scale_energy_management_framework_for_smart_PV_systems_mixing_fast_and_slow_dynamics.pdf",
+        "quote_page_num": "2",
+        "quote_confidence": "medium",
+        "semantic_verdict": "partial",
+        "status": "true",
+        "evidence_note": "Passage discusses real-time information's role in control decisions but focuses on control approach choice rather than information availability's importance relative to system b..."
+      }
+    },
+    {
+      "id": "evidence:46:5",
+      "label": "p.5",
+      "subtitle": "Each shiftable appliance is characterized by four parameters: (1) its operating time, (...",
+      "meta": {
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\citation_verification\\recovered_pdfs\\Watari2021_Multi-time_scale_energy_management_framework_for_smart_PV_systems_mixing_fast_and_slow_dynamics.pdf",
+        "quote_page_num": "5",
+        "quote_confidence": "high",
+        "semantic_verdict": "partial",
+        "status": "true",
+        "evidence_note": "Passage demonstrates explicit specification of operating constraints and scheduling parameters for appliances, supporting the claim's point about stated constraints and schedule..."
+      }
+    },
+    {
+      "id": "evidence:47:3",
+      "label": "p.3",
+      "subtitle": "The model predictive control (MPC) approach copes with the forecast error of PV and ref...",
+      "meta": {
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\citation_verification\\recovered_pdfs\\Watari2021_Multi-time_scale_energy_management_framework_for_smart_PV_systems_mixing_fast_and_slow_dynamics.pdf",
+        "quote_page_num": "3",
+        "quote_confidence": "high",
+        "semantic_verdict": "partial",
+        "status": "true",
+        "evidence_note": "The passage confirms that MPC uses PV forecasts and iterates schedules, supporting the claim's core mechanism. However, it doesn't explicitly demonstrate that degraded forecasts..."
+      }
+    },
+    {
+      "id": "evidence:49:3",
+      "label": "p.3",
+      "subtitle": "With a comprehensive approach, the three detailed component models are integrated: (1)...",
+      "meta": {
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\citation_verification\\recovered_pdfs\\Watari2021_Multi-time_scale_energy_management_framework_for_smart_PV_systems_mixing_fast_and_slow_dynamics.pdf",
+        "quote_page_num": "3",
+        "quote_confidence": "medium",
+        "semantic_verdict": "partial",
+        "status": "true",
+        "evidence_note": "The passage describes multi-scale modeling (1-second resolution, detailed component models) relevant to real-time deployment complexity. However, it focuses on model components..."
+      }
+    },
+    {
+      "id": "evidence:51:3",
+      "label": "p.3",
+      "subtitle": "The model predictive control (MPC) approach copes with the forecast error of PV and ref...",
+      "meta": {
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\citation_verification\\recovered_pdfs\\Watari2021_Multi-time_scale_energy_management_framework_for_smart_PV_systems_mixing_fast_and_slow_dynamics.pdf",
+        "quote_page_num": "3",
+        "quote_confidence": "high",
+        "semantic_verdict": "partial",
+        "status": "true",
+        "evidence_note": "Passage describes MPC optimization iteration, addressing the repeated optimization component of the claim. However, it doesn't discuss DRL comparison, policy execution distincti..."
+      }
+    },
+    {
+      "id": "evidence:52:2",
+      "label": "p.2",
+      "subtitle": "Real-time decision-making generally employs a rule-based control approach or a fuzzy-lo...",
+      "meta": {
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\citation_verification\\recovered_pdfs\\Watari2021_Multi-time_scale_energy_management_framework_for_smart_PV_systems_mixing_fast_and_slow_dynamics.pdf",
+        "quote_page_num": "2",
+        "quote_confidence": "high",
+        "semantic_verdict": "partial",
+        "status": "true",
+        "evidence_note": "The passage discusses rule-based control approaches for real-time decision-making in energy systems, which relates to RBC's reactive nature. However, it doesn't explicitly addre..."
+      }
+    },
+    {
+      "id": "source:ACM2024",
+      "label": "ACM2024",
+      "subtitle": "Netbeheerkosten: capaciteitstarief, vastrecht, aansluittarief en meettarief",
+      "meta": {
+        "citation_key": "ACM2024",
+        "pdf_path": "",
+        "mapping_status": "metadata_hint_only"
+      }
+    },
+    {
+      "id": "source:Ahmadi2025",
+      "label": "Ahmadi2025",
+      "subtitle": "A novel user-centric decentralized multi-objective energy management system for energy...",
+      "meta": {
+        "citation_key": "Ahmadi2025",
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\hub\\papers\\Theme_02_MARL_Cooperative_Multi_Agent\\007_A_novel_user_centric_decentralized_multi_objective_energy_management_system_for_.pdf",
+        "mapping_status": "strong_pdf_match"
+      }
+    },
+    {
+      "id": "source:Gorrasi2024",
+      "label": "Gorrasi2024",
+      "subtitle": "Comparison of market designs ensuring network integrity in low voltage distribution sys...",
+      "meta": {
+        "citation_key": "Gorrasi2024",
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\citation_verification\\recovered_pdfs\\Gorrasi2024_Comparison_of_market_designs_ensuring_network_integrity_in_low_voltage_distribution_systems_with_high_DER_penetration.pdf",
+        "mapping_status": "strong_pdf_match"
+      }
+    },
+    {
+      "id": "source:Hussein2023",
+      "label": "Hussein2023",
+      "subtitle": "A review of controllers and optimization based scheduling operation for BESS",
+      "meta": {
+        "citation_key": "Hussein2023",
+        "pdf_path": "",
+        "mapping_status": "missing_pdf"
+      }
+    },
+    {
+      "id": "source:Li2023ProcIEEE",
+      "label": "Li2023ProcIEEE",
+      "subtitle": "Deep Reinforcement Learning for Smart Grid Operations: Algorithms, Applications, and Pr...",
+      "meta": {
+        "citation_key": "Li2023ProcIEEE",
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\hub\\papers\\Theme_01_DRL_SAC_Policy_Optimization\\066_Deep_Reinforcement_Learning_for_Smart_Grid_Operations_Algorithms_Applications.pdf",
+        "mapping_status": "strong_pdf_match"
+      }
+    },
+    {
+      "id": "source:Norouzi2025",
+      "label": "Norouzi2025",
+      "subtitle": "Optimal BESS scheduling under dynamic pricing: A comparison of control strategies",
+      "meta": {
+        "citation_key": "Norouzi2025",
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\citation_verification\\recovered_pdfs\\from_root_staging\\Norouzi2025_Farshid_Norouzi_Final.pdf",
+        "mapping_status": "strong_pdf_match"
+      }
+    },
+    {
+      "id": "source:Talent_2018",
+      "label": "Talent_2018",
+      "subtitle": "Optimal Sizing and Energy Scheduling of Photovoltaic-Battery Systems Under Different Ta...",
+      "meta": {
+        "citation_key": "Talent_2018",
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\LITERATURE_REVIEW_battery_scheduling_dynamic_tariffs_papers\\Theme_A_MILP_Optimization_Approaches_for_Battery_Scheduling\\A6_Optimal_Sizing_and_Energy_Scheduling_of_Photovoltaic-Battery_Systems_Under_Different_Tariff_Structures.pdf",
+        "mapping_status": "strong_pdf_match"
+      }
+    },
+    {
+      "id": "source:Toderean2025EB",
+      "label": "Toderean2025EB",
+      "subtitle": "Demand response optimization for smart grid integrated buildings: Review of technology...",
+      "meta": {
+        "citation_key": "Toderean2025EB",
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\hub\\papers\\Theme_04_Building_Energy_HVAC\\028_Demand_response_optimization_for_smart_grid_integrated_buildings_Review_of_techn.pdf",
+        "mapping_status": "usable_pdf_match"
+      }
+    },
+    {
+      "id": "source:Watari2021",
+      "label": "Watari2021",
+      "subtitle": "Multi-time scale energy management framework for smart PV systems mixing fast and slow...",
+      "meta": {
+        "citation_key": "Watari2021",
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\citation_verification\\recovered_pdfs\\Watari2021_Multi-time_scale_energy_management_framework_for_smart_PV_systems_mixing_fast_and_slow_dynamics.pdf",
+        "mapping_status": "strong_pdf_match"
+      }
+    },
+    {
+      "id": "source:Wilk2022BTM_MADRL",
+      "label": "Wilk2022BTM_MADRL",
+      "subtitle": "A multi-agent deep reinforcement learning based energy management for behind-the-meter...",
+      "meta": {
+        "citation_key": "Wilk2022BTM_MADRL",
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\hub\\papers\\Theme_01_DRL_SAC_Policy_Optimization\\043_A_multi_agent_deep_reinforcement_learning_based_energy_management_for_behind_the.pdf",
+        "mapping_status": "strong_pdf_match"
+      }
+    },
+    {
+      "id": "source:albadiDemandResponseDefinition2008",
+      "label": "albadiDemandResponseDefinition2008",
+      "subtitle": "A summary of demand response in electricity markets",
+      "meta": {
+        "citation_key": "albadiDemandResponseDefinition2008",
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\hub\\papers\\Theme_06_Demand_Response_Tariffs\\019_A_summary_of_demand_response_in_electricity_markets.pdf",
+        "mapping_status": "strong_pdf_match"
+      }
+    },
+    {
+      "id": "source:hoogsteen2017cyber",
+      "label": "hoogsteen2017cyber",
+      "subtitle": "A Cyber-Physical Systems Perspective on Decentralized Energy Management",
+      "meta": {
+        "citation_key": "hoogsteen2017cyber",
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\citation_verification\\recovered_pdfs\\hoogsteen2017cyber_A_Cyber_Physical_Systems_Perspective_on_Decentralized_Energy_Management.pdf",
+        "mapping_status": "strong_pdf_match"
+      }
+    },
+    {
+      "id": "source:liDeepReinforcementLearning2023Full",
+      "label": "liDeepReinforcementLearning2023Full",
+      "subtitle": "Deep {Reinforcement} {Learning} for {Smart} {Grid} {Operations}: {Algorithms}, {Applica...",
+      "meta": {
+        "citation_key": "liDeepReinforcementLearning2023Full",
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\hub\\papers\\Theme_01_DRL_SAC_Policy_Optimization\\066_Deep_Reinforcement_Learning_for_Smart_Grid_Operations_Algorithms_Applications.pdf",
+        "mapping_status": "strong_pdf_match"
+      }
+    },
+    {
+      "id": "source:mulderRegulationEnergyMarkets2020",
+      "label": "mulderRegulationEnergyMarkets2020",
+      "subtitle": "Regulation of Energy Markets: Economic Mechanisms and Policy Evaluation",
+      "meta": {
+        "citation_key": "mulderRegulationEnergyMarkets2020",
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\hub\\papers\\Theme_12_Energy_Policy_Markets\\001_Regulation_of_Energy_Markets_Economic_Mechanisms_and_Policy_Evaluation.pdf",
+        "mapping_status": "strong_pdf_match"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "claim:1",
+      "target": "source:hoogsteen2017cyber",
+      "relation": "cites"
+    },
+    {
+      "source": "claim:10",
+      "target": "source:Hussein2023",
+      "relation": "cites"
+    },
+    {
+      "source": "claim:15",
+      "target": "source:Talent_2018",
+      "relation": "cites"
+    },
+    {
+      "source": "claim:16",
+      "target": "source:Norouzi2025",
+      "relation": "cites"
+    },
+    {
+      "source": "claim:17",
+      "target": "source:mulderRegulationEnergyMarkets2020",
+      "relation": "cites"
+    },
+    {
+      "source": "claim:20",
+      "target": "source:Ahmadi2025",
+      "relation": "cites"
+    },
+    {
+      "source": "claim:25",
+      "target": "source:liDeepReinforcementLearning2023Full",
+      "relation": "cites"
+    },
+    {
+      "source": "claim:26",
+      "target": "source:Li2023ProcIEEE",
+      "relation": "cites"
+    },
+    {
+      "source": "claim:27",
+      "target": "source:albadiDemandResponseDefinition2008",
+      "relation": "cites"
+    },
+    {
+      "source": "claim:29",
+      "target": "source:albadiDemandResponseDefinition2008",
+      "relation": "cites"
+    },
+    {
+      "source": "claim:31",
+      "target": "source:Wilk2022BTM_MADRL",
+      "relation": "cites"
+    },
+    {
+      "source": "claim:32",
+      "target": "source:Toderean2025EB",
+      "relation": "cites"
+    },
+    {
+      "source": "claim:33",
+      "target": "source:albadiDemandResponseDefinition2008",
+      "relation": "cites"
+    },
+    {
+      "source": "claim:35",
+      "target": "source:Gorrasi2024",
+      "relation": "cites"
+    },
+    {
+      "source": "claim:36",
+      "target": "source:Ahmadi2025",
+      "relation": "cites"
+    },
+    {
+      "source": "claim:37",
+      "target": "source:ACM2024",
+      "relation": "cites"
+    },
+    {
+      "source": "claim:41",
+      "target": "source:Ahmadi2025",
+      "relation": "cites"
+    },
+    {
+      "source": "claim:42",
+      "target": "source:Gorrasi2024",
+      "relation": "cites"
+    },
+    {
+      "source": "claim:44",
+      "target": "source:Watari2021",
+      "relation": "cites"
+    },
+    {
+      "source": "claim:46",
+      "target": "source:Watari2021",
+      "relation": "cites"
+    },
+    {
+      "source": "claim:47",
+      "target": "source:Watari2021",
+      "relation": "cites"
+    },
+    {
+      "source": "claim:49",
+      "target": "source:Watari2021",
+      "relation": "cites"
+    },
+    {
+      "source": "claim:51",
+      "target": "source:Watari2021",
+      "relation": "cites"
+    },
+    {
+      "source": "claim:52",
+      "target": "source:Watari2021",
+      "relation": "cites"
+    },
+    {
+      "source": "evidence:10:none",
+      "target": "concept:tariff_settlement",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:15:2",
+      "target": "concept:battery_dynamics",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:15:2",
+      "target": "concept:scaling_generalization",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:15:2",
+      "target": "concept:tariff_settlement",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:16:94",
+      "target": "concept:scaling_generalization",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:16:94",
+      "target": "concept:tariff_settlement",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:17:285",
+      "target": "concept:battery_dynamics",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:17:285",
+      "target": "concept:scaling_generalization",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:17:285",
+      "target": "concept:tariff_settlement",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:1:164",
+      "target": "concept:benchmark_fairness",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:1:164",
+      "target": "concept:drl_sac_control",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:1:164",
+      "target": "concept:safety_projection",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:1:164",
+      "target": "concept:scope_boundary",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:1:164",
+      "target": "concept:tariff_settlement",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:20:8",
+      "target": "concept:network_assumption",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:20:8",
+      "target": "concept:safety_projection",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:20:8",
+      "target": "concept:scaling_generalization",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:25:3",
+      "target": "concept:drl_sac_control",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:26:3",
+      "target": "concept:drl_sac_control",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:27:2",
+      "target": "concept:unclassified",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:29:2",
+      "target": "concept:tariff_settlement",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:31:3",
+      "target": "concept:drl_sac_control",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:31:3",
+      "target": "concept:scaling_generalization",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:31:3",
+      "target": "concept:scope_boundary",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:32:2",
+      "target": "concept:unclassified",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:33:2",
+      "target": "concept:tariff_settlement",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:35:8",
+      "target": "concept:network_assumption",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:35:8",
+      "target": "concept:safety_projection",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:35:8",
+      "target": "concept:scaling_generalization",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:36:12",
+      "target": "concept:network_assumption",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:36:12",
+      "target": "concept:safety_projection",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:36:12",
+      "target": "concept:scaling_generalization",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:37:none",
+      "target": "concept:scaling_generalization",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:37:none",
+      "target": "concept:scope_boundary",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:37:none",
+      "target": "concept:tariff_settlement",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:41:12",
+      "target": "concept:scaling_generalization",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:42:5",
+      "target": "concept:network_assumption",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:44:2",
+      "target": "concept:battery_dynamics",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:44:2",
+      "target": "concept:scaling_generalization",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:44:2",
+      "target": "concept:scope_boundary",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:44:2",
+      "target": "concept:tariff_settlement",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:46:5",
+      "target": "concept:battery_dynamics",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:46:5",
+      "target": "concept:benchmark_fairness",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:46:5",
+      "target": "concept:safety_projection",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:46:5",
+      "target": "concept:scaling_generalization",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:47:3",
+      "target": "concept:battery_dynamics",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:47:3",
+      "target": "concept:scaling_generalization",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:49:3",
+      "target": "concept:battery_dynamics",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:49:3",
+      "target": "concept:scaling_generalization",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:51:3",
+      "target": "concept:battery_dynamics",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:51:3",
+      "target": "concept:benchmark_fairness",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:51:3",
+      "target": "concept:drl_sac_control",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:51:3",
+      "target": "concept:scaling_generalization",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:52:2",
+      "target": "concept:battery_dynamics",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:52:2",
+      "target": "concept:scaling_generalization",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "source:ACM2024",
+      "target": "evidence:37:none",
+      "relation": "contains_evidence"
+    },
+    {
+      "source": "source:Ahmadi2025",
+      "target": "evidence:20:8",
+      "relation": "contains_evidence"
+    },
+    {
+      "source": "source:Ahmadi2025",
+      "target": "evidence:36:12",
+      "relation": "contains_evidence"
+    },
+    {
+      "source": "source:Ahmadi2025",
+      "target": "evidence:41:12",
+      "relation": "contains_evidence"
+    },
+    {
+      "source": "source:Gorrasi2024",
+      "target": "evidence:35:8",
+      "relation": "contains_evidence"
+    },
+    {
+      "source": "source:Gorrasi2024",
+      "target": "evidence:42:5",
+      "relation": "contains_evidence"
+    },
+    {
+      "source": "source:Hussein2023",
+      "target": "evidence:10:none",
+      "relation": "contains_evidence"
+    },
+    {
+      "source": "source:Li2023ProcIEEE",
+      "target": "evidence:26:3",
+      "relation": "contains_evidence"
+    },
+    {
+      "source": "source:Norouzi2025",
+      "target": "evidence:16:94",
+      "relation": "contains_evidence"
+    },
+    {
+      "source": "source:Talent_2018",
+      "target": "evidence:15:2",
+      "relation": "contains_evidence"
+    },
+    {
+      "source": "source:Toderean2025EB",
+      "target": "evidence:32:2",
+      "relation": "contains_evidence"
+    },
+    {
+      "source": "source:Watari2021",
+      "target": "evidence:44:2",
+      "relation": "contains_evidence"
+    },
+    {
+      "source": "source:Watari2021",
+      "target": "evidence:46:5",
+      "relation": "contains_evidence"
+    },
+    {
+      "source": "source:Watari2021",
+      "target": "evidence:47:3",
+      "relation": "contains_evidence"
+    },
+    {
+      "source": "source:Watari2021",
+      "target": "evidence:49:3",
+      "relation": "contains_evidence"
+    },
+    {
+      "source": "source:Watari2021",
+      "target": "evidence:51:3",
+      "relation": "contains_evidence"
+    },
+    {
+      "source": "source:Watari2021",
+      "target": "evidence:52:2",
+      "relation": "contains_evidence"
+    },
+    {
+      "source": "source:Wilk2022BTM_MADRL",
+      "target": "evidence:31:3",
+      "relation": "contains_evidence"
+    },
+    {
+      "source": "source:albadiDemandResponseDefinition2008",
+      "target": "evidence:27:2",
+      "relation": "contains_evidence"
+    },
+    {
+      "source": "source:albadiDemandResponseDefinition2008",
+      "target": "evidence:29:2",
+      "relation": "contains_evidence"
+    },
+    {
+      "source": "source:albadiDemandResponseDefinition2008",
+      "target": "evidence:33:2",
+      "relation": "contains_evidence"
+    },
+    {
+      "source": "source:hoogsteen2017cyber",
+      "target": "evidence:1:164",
+      "relation": "contains_evidence"
+    },
+    {
+      "source": "source:liDeepReinforcementLearning2023Full",
+      "target": "evidence:25:3",
+      "relation": "contains_evidence"
+    },
+    {
+      "source": "source:mulderRegulationEnergyMarkets2020",
+      "target": "evidence:17:285",
+      "relation": "contains_evidence"
+    }
+  ]
+}

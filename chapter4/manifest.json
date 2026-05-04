@@ -1,0 +1,56 @@
+{
+  "lanes": [
+    {
+      "lane_id": "lane_01_scope_and_boundary",
+      "title": "Scope Boundary + Decentralised HEMS Control",
+      "entries": 1,
+      "json": "docs/citation_verification/graph_views_chapter4/lane_01_scope_and_boundary.json",
+      "md": "docs/citation_verification/graph_views_chapter4/lane_01_scope_and_boundary.md",
+      "html": "docs/citation_verification/graph_views_chapter4/lane_01_scope_and_boundary.html"
+    },
+    {
+      "lane_id": "lane_02_tariff_and_settlement",
+      "title": "Tariffs, Settlement, and Benchmark Policy",
+      "entries": 1,
+      "json": "docs/citation_verification/graph_views_chapter4/lane_02_tariff_and_settlement.json",
+      "md": "docs/citation_verification/graph_views_chapter4/lane_02_tariff_and_settlement.md",
+      "html": "docs/citation_verification/graph_views_chapter4/lane_02_tariff_and_settlement.html"
+    },
+    {
+      "lane_id": "lane_03_physical_dynamics_and_control",
+      "title": "Physical Dynamics + Controller Physiology",
+      "entries": 1,
+      "json": "docs/citation_verification/graph_views_chapter4/lane_03_physical_dynamics_and_control.json",
+      "md": "docs/citation_verification/graph_views_chapter4/lane_03_physical_dynamics_and_control.md",
+      "html": "docs/citation_verification/graph_views_chapter4/lane_03_physical_dynamics_and_control.html"
+    },
+    {
+      "lane_id": "lane_04_controller_architecture_and_safety",
+      "title": "Controller Architecture + Safety Coordination",
+      "entries": 1,
+      "json": "docs/citation_verification/graph_views_chapter4/lane_04_controller_architecture_and_safety.json",
+      "md": "docs/citation_verification/graph_views_chapter4/lane_04_controller_architecture_and_safety.md",
+      "html": "docs/citation_verification/graph_views_chapter4/lane_04_controller_architecture_and_safety.html"
+    },
+    {
+      "lane_id": "lane_05_scaling_and_normalization",
+      "title": "Scaling + Normalization Path",
+      "entries": 0,
+      "json": "docs/citation_verification/graph_views_chapter4/lane_05_scaling_and_normalization.json",
+      "md": "docs/citation_verification/graph_views_chapter4/lane_05_scaling_and_normalization.md",
+      "html": "docs/citation_verification/graph_views_chapter4/lane_05_scaling_and_normalization.html"
+    },
+    {
+      "lane_id": "lane_06_claim_evidence_governance",
+      "title": "Claim-Evidence Governance",
+      "entries": 3,
+      "json": "docs/citation_verification/graph_views_chapter4/lane_06_claim_evidence_governance.json",
+      "md": "docs/citation_verification/graph_views_chapter4/lane_06_claim_evidence_governance.md",
+      "html": "docs/citation_verification/graph_views_chapter4/lane_06_claim_evidence_governance.html"
+    }
+  ],
+  "claim_evidence_graph": "docs/citation_verification/graph_views_chapter4/claim_evidence_graph.json",
+  "proposal_graph": "docs/citation_verification/graph_views_chapter4/proposal_ready_compact_graph.json",
+  "gap_report": "docs/citation_verification/graph_views_chapter4/gap_report.md",
+  "index": "docs/citation_verification/graph_views_chapter4/INDEX.md"
+}

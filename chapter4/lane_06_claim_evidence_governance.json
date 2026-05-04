@@ -1,0 +1,197 @@
+{
+  "nodes": [
+    {
+      "id": "claim:1",
+      "label": "Claim L98",
+      "subtitle": "The benchmark choice is motivated by the broader storage-scheduling issue addressed by...",
+      "meta": {
+        "row_id": "1",
+        "line_number": "98",
+        "semantic_verdict": "supported"
+      }
+    },
+    {
+      "id": "claim:2",
+      "label": "Claim L209",
+      "subtitle": "Dalal et al.\\ describe a layer that analytically solves an action-correction formulatio...",
+      "meta": {
+        "row_id": "2",
+        "line_number": "209",
+        "semantic_verdict": "supported"
+      }
+    },
+    {
+      "id": "claim:3",
+      "label": "Claim L484",
+      "subtitle": "Block-based resampling methods construct blocks of observations to form a pseudo-time s...",
+      "meta": {
+        "row_id": "3",
+        "line_number": "484",
+        "semantic_verdict": "supported"
+      }
+    },
+    {
+      "id": "concept:battery_dynamics",
+      "label": "battery dynamics",
+      "subtitle": "concept",
+      "meta": {
+        "concept": "battery_dynamics"
+      }
+    },
+    {
+      "id": "concept:benchmark_fairness",
+      "label": "benchmark fairness",
+      "subtitle": "concept",
+      "meta": {
+        "concept": "benchmark_fairness"
+      }
+    },
+    {
+      "id": "concept:citation_governance",
+      "label": "citation governance",
+      "subtitle": "concept",
+      "meta": {
+        "concept": "citation_governance"
+      }
+    },
+    {
+      "id": "concept:scope_boundary",
+      "label": "scope boundary",
+      "subtitle": "concept",
+      "meta": {
+        "concept": "scope_boundary"
+      }
+    },
+    {
+      "id": "evidence:1:1",
+      "label": "p.1",
+      "subtitle": "End-effect mitigation in renewable energy systems with energy storage using value funct...",
+      "meta": {
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\hub\\papers\\Theme_05_Battery_Storage_EV\\011_End_effect_mitigation_in_renewable_energy_systems_with_energy_storage_using_valu.pdf",
+        "quote_page_num": "1",
+        "quote_confidence": "high",
+        "semantic_verdict": "supported",
+        "status": "false",
+        "evidence_note": "manual local-quote override: Han and Heo directly support terminal energy treatment for ESS end-effect mitigation. Provenance: Local PDF quote from docs/hub/papers/Theme_05_Batt..."
+      }
+    },
+    {
+      "id": "evidence:2:1",
+      "label": "p.1",
+      "subtitle": "Nevertheless, we in- layer that analytically solves an action correc- deedmanagetoaccom...",
+      "meta": {
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\citation_verification\\recovered_pdfs\\Dalal2018_Safe_exploration_in_continuous_action_spaces.pdf",
+        "quote_page_num": "1",
+        "quote_confidence": "high",
+        "semantic_verdict": "supported",
+        "status": "false",
+        "evidence_note": "Quote covers the core claim terms: ['action', 'analytically', 'formulation', 'layer', 'solves', 'state']."
+      }
+    },
+    {
+      "id": "evidence:3:2",
+      "label": "p.2",
+      "subtitle": "These methods share the construction of resampling blocks of observations to form a pse...",
+      "meta": {
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\citation_verification\\recovered_pdfs\\Politis1994_The_Stationary_Bootstrap.pdf",
+        "quote_page_num": "2",
+        "quote_confidence": "high",
+        "semantic_verdict": "supported",
+        "status": "false",
+        "evidence_note": "Quote covers the core claim terms: ['based', 'blocks', 'data', 'form', 'interest', 'methods', 'observations', 'pseudo', 'recalculated', 'resampled', 'resampling', 'series', 'tim..."
+      }
+    },
+    {
+      "id": "source:Dalal2018",
+      "label": "Dalal2018",
+      "subtitle": "Safe exploration in continuous action spaces",
+      "meta": {
+        "citation_key": "Dalal2018",
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\citation_verification\\recovered_pdfs\\Dalal2018_Safe_exploration_in_continuous_action_spaces.pdf",
+        "mapping_status": "strong_pdf_match"
+      }
+    },
+    {
+      "id": "source:HanHeo2025",
+      "label": "HanHeo2025",
+      "subtitle": "End-effect mitigation in renewable energy systems with energy storage using value funct...",
+      "meta": {
+        "citation_key": "HanHeo2025",
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\hub\\papers\\Theme_05_Battery_Storage_EV\\011_End_effect_mitigation_in_renewable_energy_systems_with_energy_storage_using_valu.pdf",
+        "mapping_status": "usable_pdf_match"
+      }
+    },
+    {
+      "id": "source:Politis1994",
+      "label": "Politis1994",
+      "subtitle": "The Stationary Bootstrap",
+      "meta": {
+        "citation_key": "Politis1994",
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\citation_verification\\recovered_pdfs\\Politis1994_The_Stationary_Bootstrap.pdf",
+        "mapping_status": "strong_pdf_match"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "claim:1",
+      "target": "source:HanHeo2025",
+      "relation": "cites"
+    },
+    {
+      "source": "claim:2",
+      "target": "source:Dalal2018",
+      "relation": "cites"
+    },
+    {
+      "source": "claim:3",
+      "target": "source:Politis1994",
+      "relation": "cites"
+    },
+    {
+      "source": "evidence:1:1",
+      "target": "concept:battery_dynamics",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:1:1",
+      "target": "concept:benchmark_fairness",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:1:1",
+      "target": "concept:citation_governance",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:1:1",
+      "target": "concept:scope_boundary",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:2:1",
+      "target": "concept:citation_governance",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:3:2",
+      "target": "concept:citation_governance",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "source:Dalal2018",
+      "target": "evidence:2:1",
+      "relation": "contains_evidence"
+    },
+    {
+      "source": "source:HanHeo2025",
+      "target": "evidence:1:1",
+      "relation": "contains_evidence"
+    },
+    {
+      "source": "source:Politis1994",
+      "target": "evidence:3:2",
+      "relation": "contains_evidence"
+    }
+  ]
+}

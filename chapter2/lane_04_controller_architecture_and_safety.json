@@ -1,0 +1,1382 @@
+{
+  "nodes": [
+    {
+      "id": "claim:1",
+      "label": "Claim L12",
+      "subtitle": "It is to show why a credible comparison between optimisation and DRL should make bounda...",
+      "meta": {
+        "row_id": "1",
+        "line_number": "12",
+        "semantic_verdict": "partial"
+      }
+    },
+    {
+      "id": "claim:2",
+      "label": "Claim L12",
+      "subtitle": "It is to show why a credible comparison between optimisation and DRL should make bounda...",
+      "meta": {
+        "row_id": "2",
+        "line_number": "12",
+        "semantic_verdict": ""
+      }
+    },
+    {
+      "id": "claim:21",
+      "label": "Claim L82",
+      "subtitle": "Third, comfort interactions with price-driven control complicate purely economic schedu...",
+      "meta": {
+        "row_id": "21",
+        "line_number": "82",
+        "semantic_verdict": ""
+      }
+    },
+    {
+      "id": "claim:25",
+      "label": "Claim L101",
+      "subtitle": "However, these approaches become more difficult to scale under uncertainty and forecast...",
+      "meta": {
+        "row_id": "25",
+        "line_number": "101",
+        "semantic_verdict": "supported"
+      }
+    },
+    {
+      "id": "claim:26",
+      "label": "Claim L101",
+      "subtitle": "However, these approaches become more difficult to scale under uncertainty and forecast...",
+      "meta": {
+        "row_id": "26",
+        "line_number": "101",
+        "semantic_verdict": "supported"
+      }
+    },
+    {
+      "id": "claim:3",
+      "label": "Claim L12",
+      "subtitle": "It is to show why a credible comparison between optimisation and DRL should make bounda...",
+      "meta": {
+        "row_id": "3",
+        "line_number": "12",
+        "semantic_verdict": "partial"
+      }
+    },
+    {
+      "id": "claim:31",
+      "label": "Claim L105",
+      "subtitle": "For learning-based control, recent behind-the-meter DRL work describes model-free DRL a...",
+      "meta": {
+        "row_id": "31",
+        "line_number": "105",
+        "semantic_verdict": "supported"
+      }
+    },
+    {
+      "id": "claim:4",
+      "label": "Claim L12",
+      "subtitle": "It is to show why a credible comparison between optimisation and DRL should make bounda...",
+      "meta": {
+        "row_id": "4",
+        "line_number": "12",
+        "semantic_verdict": ""
+      }
+    },
+    {
+      "id": "claim:40",
+      "label": "Claim L164",
+      "subtitle": "& Cost, self-consumption, peak penalties",
+      "meta": {
+        "row_id": "40",
+        "line_number": "164",
+        "semantic_verdict": "partial"
+      }
+    },
+    {
+      "id": "claim:43",
+      "label": "Claim L180",
+      "subtitle": "Within a PCC-only boundary, the controller's action set is restricted to behind-the-met...",
+      "meta": {
+        "row_id": "43",
+        "line_number": "180",
+        "semantic_verdict": "partial"
+      }
+    },
+    {
+      "id": "claim:45",
+      "label": "Claim L201",
+      "subtitle": "In this literature, model-based baselines are typically specified through explicit rule...",
+      "meta": {
+        "row_id": "45",
+        "line_number": "201",
+        "semantic_verdict": "partial"
+      }
+    },
+    {
+      "id": "claim:48",
+      "label": "Claim L203",
+      "subtitle": "Second, accurate problem formulation requires domain expertise to encode device dynamic...",
+      "meta": {
+        "row_id": "48",
+        "line_number": "203",
+        "semantic_verdict": "partial"
+      }
+    },
+    {
+      "id": "claim:5",
+      "label": "Claim L12",
+      "subtitle": "It is to show why a credible comparison between optimisation and DRL should make bounda...",
+      "meta": {
+        "row_id": "5",
+        "line_number": "12",
+        "semantic_verdict": ""
+      }
+    },
+    {
+      "id": "claim:50",
+      "label": "Claim L205",
+      "subtitle": "Reported outcomes also depend on design choices such as reward specification, hyperpara...",
+      "meta": {
+        "row_id": "50",
+        "line_number": "205",
+        "semantic_verdict": "partial"
+      }
+    },
+    {
+      "id": "claim:51",
+      "label": "Claim L209",
+      "subtitle": "When such baselines are compared with DRL, one practical contrast concerns forecast dep...",
+      "meta": {
+        "row_id": "51",
+        "line_number": "209",
+        "semantic_verdict": "partial"
+      }
+    },
+    {
+      "id": "claim:53",
+      "label": "Claim L235",
+      "subtitle": "Review literature presents DRL as an attractive option under uncertainty and system com...",
+      "meta": {
+        "row_id": "53",
+        "line_number": "235",
+        "semantic_verdict": "supported"
+      }
+    },
+    {
+      "id": "claim:54",
+      "label": "Claim L235",
+      "subtitle": "Comparative results are easier to interpret when information sets, optimisation horizon...",
+      "meta": {
+        "row_id": "54",
+        "line_number": "235",
+        "semantic_verdict": "partial"
+      }
+    },
+    {
+      "id": "claim:57",
+      "label": "Claim L257",
+      "subtitle": "Reported DRL performance is highly sensitive to how the reward function combines cost,...",
+      "meta": {
+        "row_id": "57",
+        "line_number": "257",
+        "semantic_verdict": "partial"
+      }
+    },
+    {
+      "id": "claim:58",
+      "label": "Claim L266",
+      "subtitle": "Explicit projection methods enforce feasibility at every step",
+      "meta": {
+        "row_id": "58",
+        "line_number": "266",
+        "semantic_verdict": "partial"
+      }
+    },
+    {
+      "id": "claim:59",
+      "label": "Claim L272",
+      "subtitle": "In hybrid discrete--continuous action spaces, such as HEMS formulations that combine ap...",
+      "meta": {
+        "row_id": "59",
+        "line_number": "272",
+        "semantic_verdict": "partial"
+      }
+    },
+    {
+      "id": "claim:6",
+      "label": "Claim L22",
+      "subtitle": "The corpus primarily draws on residentially relevant EMS/DR studies that model PV, batt...",
+      "meta": {
+        "row_id": "6",
+        "line_number": "22",
+        "semantic_verdict": "partial"
+      }
+    },
+    {
+      "id": "claim:60",
+      "label": "Claim L286",
+      "subtitle": "The DRL energy-systems literature has produced a growing set of simulation environments",
+      "meta": {
+        "row_id": "60",
+        "line_number": "286",
+        "semantic_verdict": "partial"
+      }
+    },
+    {
+      "id": "claim:61",
+      "label": "Claim L289",
+      "subtitle": "PowerGridWorld supports multi-agent dispatch through OpenDSS",
+      "meta": {
+        "row_id": "61",
+        "line_number": "289",
+        "semantic_verdict": "partial"
+      }
+    },
+    {
+      "id": "claim:62",
+      "label": "Claim L289",
+      "subtitle": "Closer to the prosumer scale, EV2Gym provides a flexible V2G simulator for smart-chargi...",
+      "meta": {
+        "row_id": "62",
+        "line_number": "289",
+        "semantic_verdict": "partial"
+      }
+    },
+    {
+      "id": "concept:battery_dynamics",
+      "label": "battery dynamics",
+      "subtitle": "concept",
+      "meta": {
+        "concept": "battery_dynamics"
+      }
+    },
+    {
+      "id": "concept:benchmark_fairness",
+      "label": "benchmark fairness",
+      "subtitle": "concept",
+      "meta": {
+        "concept": "benchmark_fairness"
+      }
+    },
+    {
+      "id": "concept:drl_sac_control",
+      "label": "drl sac control",
+      "subtitle": "concept",
+      "meta": {
+        "concept": "drl_sac_control"
+      }
+    },
+    {
+      "id": "concept:network_assumption",
+      "label": "network assumption",
+      "subtitle": "concept",
+      "meta": {
+        "concept": "network_assumption"
+      }
+    },
+    {
+      "id": "concept:safety_projection",
+      "label": "safety projection",
+      "subtitle": "concept",
+      "meta": {
+        "concept": "safety_projection"
+      }
+    },
+    {
+      "id": "concept:scaling_generalization",
+      "label": "scaling generalization",
+      "subtitle": "concept",
+      "meta": {
+        "concept": "scaling_generalization"
+      }
+    },
+    {
+      "id": "concept:scope_boundary",
+      "label": "scope boundary",
+      "subtitle": "concept",
+      "meta": {
+        "concept": "scope_boundary"
+      }
+    },
+    {
+      "id": "concept:tariff_settlement",
+      "label": "tariff settlement",
+      "subtitle": "concept",
+      "meta": {
+        "concept": "tariff_settlement"
+      }
+    },
+    {
+      "id": "evidence:1:164",
+      "label": "p.164",
+      "subtitle": "The considered energy carriers, timestep size, control systems and optimization methods...",
+      "meta": {
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\citation_verification\\recovered_pdfs\\hoogsteen2017cyber_A_Cyber_Physical_Systems_Perspective_on_Decentralized_Energy_Management.pdf",
+        "quote_page_num": "164",
+        "quote_confidence": "high",
+        "semantic_verdict": "partial",
+        "status": "true",
+        "evidence_note": "The passage confirms that different tools vary in key technical dimensions (energy carriers, timestep size, control systems, optimization methods), supporting the need for expli..."
+      }
+    },
+    {
+      "id": "evidence:21:none",
+      "label": "p.n/a",
+      "subtitle": "",
+      "meta": {
+        "pdf_path": "",
+        "quote_page_num": "",
+        "quote_confidence": "",
+        "semantic_verdict": "",
+        "status": "",
+        "evidence_note": ""
+      }
+    },
+    {
+      "id": "evidence:25:3",
+      "label": "p.3",
+      "subtitle": "However, conventional optimization methods require accurate mathematical models and par...",
+      "meta": {
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\hub\\papers\\Theme_01_DRL_SAC_Policy_Optimization\\066_Deep_Reinforcement_Learning_for_Smart_Grid_Operations_Algorithms_Applications.pdf",
+        "quote_page_num": "3",
+        "quote_confidence": "high",
+        "semantic_verdict": "supported",
+        "status": "true",
+        "evidence_note": "The passage directly addresses how conventional optimization methods struggle with accuracy requirements in complex systems, supporting the claim that explicit predictive models..."
+      }
+    },
+    {
+      "id": "evidence:26:3",
+      "label": "p.3",
+      "subtitle": "conventional optimization methods require accurate mathematical models and parameters,...",
+      "meta": {
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\hub\\papers\\Theme_01_DRL_SAC_Policy_Optimization\\066_Deep_Reinforcement_Learning_for_Smart_Grid_Operations_Algorithms_Applications.pdf",
+        "quote_page_num": "3",
+        "quote_confidence": "high",
+        "semantic_verdict": "supported",
+        "status": "true",
+        "evidence_note": "The passage directly supports the claim by explaining that conventional optimization methods struggle with uncertainty and complexity, motivating the turn toward alternative lea..."
+      }
+    },
+    {
+      "id": "evidence:2:none",
+      "label": "p.n/a",
+      "subtitle": "",
+      "meta": {
+        "pdf_path": "",
+        "quote_page_num": "",
+        "quote_confidence": "",
+        "semantic_verdict": "",
+        "status": "",
+        "evidence_note": ""
+      }
+    },
+    {
+      "id": "evidence:31:3",
+      "label": "p.3",
+      "subtitle": "Model-free DRL, either value-based or policy-based, do not need to develop a model from...",
+      "meta": {
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\hub\\papers\\Theme_01_DRL_SAC_Policy_Optimization\\043_A_multi_agent_deep_reinforcement_learning_based_energy_management_for_behind_the.pdf",
+        "quote_page_num": "3",
+        "quote_confidence": "high",
+        "semantic_verdict": "supported",
+        "status": "false",
+        "evidence_note": "The passage directly confirms the claim that model-free DRL learns policies or state-action values directly, matching the thesis wording precisely."
+      }
+    },
+    {
+      "id": "evidence:3:3",
+      "label": "p.3",
+      "subtitle": "The optimization objectives are defined, and their priorities are determined by the rew...",
+      "meta": {
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\hub\\papers\\Theme_01_DRL_SAC_Policy_Optimization\\016_Deep_reinforcement_learning_based_multi_objective_energy_management_system_for_m.pdf",
+        "quote_page_num": "3",
+        "quote_confidence": "medium",
+        "semantic_verdict": "partial",
+        "status": "true",
+        "evidence_note": "Passage addresses reward function definition in DRL optimization context, supporting the claim's emphasis on explicit KPI/objective definitions. However, it doesn't cover bounda..."
+      }
+    },
+    {
+      "id": "evidence:40:1",
+      "label": "p.1",
+      "subtitle": "An RL-based BESS control that minimizes electricity costs for prosumers.",
+      "meta": {
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\hub\\papers\\Theme_04_Building_Energy_HVAC\\008_A_hybrid_heuristic_reinforcement_learning_based_real_time_control_model_for_resi.pdf",
+        "quote_page_num": "1",
+        "quote_confidence": "high",
+        "semantic_verdict": "partial",
+        "status": "true",
+        "evidence_note": "The passage addresses cost minimization for prosumers with PV-battery systems, directly supporting the 'cost' aspect of the claim. However, it does not explicitly mention self-c..."
+      }
+    },
+    {
+      "id": "evidence:43:1",
+      "label": "p.1",
+      "subtitle": "An RL-based BESS control that minimizes electricity costs for prosumers.",
+      "meta": {
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\hub\\papers\\Theme_04_Building_Energy_HVAC\\008_A_hybrid_heuristic_reinforcement_learning_based_real_time_control_model_for_resi.pdf",
+        "quote_page_num": "1",
+        "quote_confidence": "medium",
+        "semantic_verdict": "partial",
+        "status": "true",
+        "evidence_note": "The passage addresses behind-the-meter battery control and cost minimization, which aligns with the claim's action set and import cost objective. However, the passage doesn't ex..."
+      }
+    },
+    {
+      "id": "evidence:45:24",
+      "label": "p.24",
+      "subtitle": "Although most of the existing model-based AVC methods could mitigate voltage violations...",
+      "meta": {
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\hub\\papers\\Theme_01_DRL_SAC_Policy_Optimization\\066_Deep_Reinforcement_Learning_for_Smart_Grid_Operations_Algorithms_Applications.pdf",
+        "quote_page_num": "24",
+        "quote_confidence": "high",
+        "semantic_verdict": "partial",
+        "status": "true",
+        "evidence_note": "Passage acknowledges model-based AVC methods exist but focuses on their limitations and DRL advantages rather than describing how baselines are specified through explicit rules..."
+      }
+    },
+    {
+      "id": "evidence:48:8",
+      "label": "p.8",
+      "subtitle": "Accurate objective function formulation requires defining the cost function for the syn...",
+      "meta": {
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\citation_verification\\recovered_pdfs\\Arvanitidis2025_Comprehensive_assessment_of_deep_reinforcement_learning_approaches_for_economic_dispatch_in_nuclear_driven_microgrids.pdf",
+        "quote_page_num": "8",
+        "quote_confidence": "high",
+        "semantic_verdict": "partial",
+        "status": "true",
+        "evidence_note": "Passage demonstrates one specific instance of domain expertise requirement (heat input curve for cost function), supporting the claim's core point about expertise needs for mode..."
+      }
+    },
+    {
+      "id": "evidence:4:none",
+      "label": "p.n/a",
+      "subtitle": "",
+      "meta": {
+        "pdf_path": "",
+        "quote_page_num": "",
+        "quote_confidence": "",
+        "semantic_verdict": "",
+        "status": "",
+        "evidence_note": ""
+      }
+    },
+    {
+      "id": "evidence:50:15",
+      "label": "p.15",
+      "subtitle": "Optimal hyperparameter settings selected for each DRL algorithm. Batch size 256 256 512...",
+      "meta": {
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\citation_verification\\recovered_pdfs\\Arvanitidis2025_Comprehensive_assessment_of_deep_reinforcement_learning_approaches_for_economic_dispatch_in_nuclear_driven_microgrids.pdf",
+        "quote_page_num": "15",
+        "quote_confidence": "high",
+        "semantic_verdict": "partial",
+        "status": "true",
+        "evidence_note": "The passage demonstrates hyperparameter tuning's role in DRL outcomes, supporting that claim element. However, it only shows a table of settings without discussing how these cho..."
+      }
+    },
+    {
+      "id": "evidence:51:3",
+      "label": "p.3",
+      "subtitle": "The model predictive control (MPC) approach copes with the forecast error of PV and ref...",
+      "meta": {
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\citation_verification\\recovered_pdfs\\Watari2021_Multi-time_scale_energy_management_framework_for_smart_PV_systems_mixing_fast_and_slow_dynamics.pdf",
+        "quote_page_num": "3",
+        "quote_confidence": "high",
+        "semantic_verdict": "partial",
+        "status": "true",
+        "evidence_note": "Passage describes MPC optimization iteration, addressing the repeated optimization component of the claim. However, it doesn't discuss DRL comparison, policy execution distincti..."
+      }
+    },
+    {
+      "id": "evidence:53:3",
+      "label": "p.3",
+      "subtitle": "These characteristics increase the uncertainty and complexity, which brings great chall...",
+      "meta": {
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\hub\\papers\\Theme_01_DRL_SAC_Policy_Optimization\\066_Deep_Reinforcement_Learning_for_Smart_Grid_Operations_Algorithms_Applications.pdf",
+        "quote_page_num": "3",
+        "quote_confidence": "high",
+        "semantic_verdict": "supported",
+        "status": "false",
+        "evidence_note": "The passage explicitly states DRL is positioned as an alternative solution to overcome challenges arising from uncertainty and complexity, directly supporting the claim that rev..."
+      }
+    },
+    {
+      "id": "evidence:54:4",
+      "label": "p.4",
+      "subtitle": "Conduct a comparative performance evaluation of all DRL algorithms against the NLP benc...",
+      "meta": {
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\citation_verification\\recovered_pdfs\\Arvanitidis2025_Comprehensive_assessment_of_deep_reinforcement_learning_approaches_for_economic_dispatch_in_nuclear_driven_microgrids.pdf",
+        "quote_page_num": "4",
+        "quote_confidence": "high",
+        "semantic_verdict": "partial",
+        "status": "true",
+        "evidence_note": "The passage describes conducting comparative evaluation with reporting of optimization horizon and computational load (related to training budgets), supporting the claim's empha..."
+      }
+    },
+    {
+      "id": "evidence:57:9",
+      "label": "p.9",
+      "subtitle": "the uncertainty, the system power balance, and the economic cost are jointly considered...",
+      "meta": {
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\hub\\papers\\Theme_01_DRL_SAC_Policy_Optimization\\016_Deep_reinforcement_learning_based_multi_objective_energy_management_system_for_m.pdf",
+        "quote_page_num": "9",
+        "quote_confidence": "high",
+        "semantic_verdict": "partial",
+        "status": "true",
+        "evidence_note": "Passage acknowledges multiple terms (uncertainty, power balance, cost) combined in reward function with 'distinguished priorities,' supporting sensitivity claim. However, it doe..."
+      }
+    },
+    {
+      "id": "evidence:58:5",
+      "label": "p.5",
+      "subtitle": "The solution (6) is essentially a linear projection of the original action \u00b5(s) to the...",
+      "meta": {
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\citation_verification\\recovered_pdfs\\Dalal2018_Safe_exploration_in_continuous_action_spaces.pdf",
+        "quote_page_num": "5",
+        "quote_confidence": "high",
+        "semantic_verdict": "partial",
+        "status": "true",
+        "evidence_note": "Passage describes a linear projection method ensuring safety constraints (feasibility), but focuses on implementation details rather than explicitly stating that feasibility is..."
+      }
+    },
+    {
+      "id": "evidence:59:5",
+      "label": "p.5",
+      "subtitle": "the action vector consists of both discrete actions and continuous actions. The discret...",
+      "meta": {
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\oa\\pdfs\\Huang2022_oa.pdf",
+        "quote_page_num": "5",
+        "quote_confidence": "medium",
+        "semantic_verdict": "partial",
+        "status": "true",
+        "evidence_note": "The passage confirms hybrid discrete-continuous action spaces exist in HEMS with on/off and setpoint decisions. However, it doesn't address the specific claim about explicit fea..."
+      }
+    },
+    {
+      "id": "evidence:5:none",
+      "label": "p.n/a",
+      "subtitle": "",
+      "meta": {
+        "pdf_path": "",
+        "quote_page_num": "",
+        "quote_confidence": "",
+        "semantic_verdict": "",
+        "status": "",
+        "evidence_note": ""
+      }
+    },
+    {
+      "id": "evidence:60:3",
+      "label": "p.3",
+      "subtitle": "Work Research task Power flow integration Data augmentation Flexibility and customizati...",
+      "meta": {
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\hub\\papers\\Theme_01_DRL_SAC_Policy_Optimization\\020_RL_ADN_A_high_performance_Deep_Reinforcement_Learning_environment_for_optimal_En.pdf",
+        "quote_page_num": "3",
+        "quote_confidence": "high",
+        "semantic_verdict": "partial",
+        "status": "true",
+        "evidence_note": "The passage presents a table comparing simulation environments (CityLearn, GridLearn, etc.) for energy systems, supporting the existence of multiple environments. However, it do..."
+      }
+    },
+    {
+      "id": "evidence:61:8",
+      "label": "p.8",
+      "subtitle": "Another key feature of PowerGridworld is the integration of a power flow solver for sim...",
+      "meta": {
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\citation_verification\\recovered_pdfs\\Biagioni2020PowerGridWorld_PowerGridworld_A_Framework_for_Multi_Agent_Reinforcement_Learning_in_Power_Systems.pdf",
+        "quote_page_num": "8",
+        "quote_confidence": "medium",
+        "semantic_verdict": "partial",
+        "status": "true",
+        "evidence_note": "The passage confirms PowerGridworld includes a power flow solver for grid simulation, but does not explicitly mention OpenDSS integration or multi-agent dispatch capabilities."
+      }
+    },
+    {
+      "id": "evidence:62:5",
+      "label": "p.5",
+      "subtitle": "Flexible simulation environment for benchmarking and impact assessment of any charging...",
+      "meta": {
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\citation_verification\\recovered_pdfs\\orfanoudakis2024ev2gym_EV2Gym_A_Flexible_V2G_Simulator_for_EV_Smart_Charging_Research_and_Benchmarking.pdf",
+        "quote_page_num": "5",
+        "quote_confidence": "high",
+        "semantic_verdict": "partial",
+        "status": "true",
+        "evidence_note": "Passage confirms EV2Gym's V2G simulation and benchmarking capabilities, but does not explicitly address settlement logic or position it among few environments with these features."
+      }
+    },
+    {
+      "id": "evidence:6:25",
+      "label": "p.25",
+      "subtitle": "a DRL-based AVC scheme is developed for autonomous grid operation, which takes control...",
+      "meta": {
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\hub\\papers\\Theme_01_DRL_SAC_Policy_Optimization\\066_Deep_Reinforcement_Learning_for_Smart_Grid_Operations_Algorithms_Applications.pdf",
+        "quote_page_num": "25",
+        "quote_confidence": "medium",
+        "semantic_verdict": "partial",
+        "status": "true",
+        "evidence_note": "The passage addresses DRL control for grid operations with PV integration, but focuses on autonomous voltage control rather than residential EMS/DR modeling with price-based inc..."
+      }
+    },
+    {
+      "id": "source:Arvanitidis2025",
+      "label": "Arvanitidis2025",
+      "subtitle": "Comprehensive assessment of deep reinforcement learning approaches for economic dispatc...",
+      "meta": {
+        "citation_key": "Arvanitidis2025",
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\citation_verification\\recovered_pdfs\\Arvanitidis2025_Comprehensive_assessment_of_deep_reinforcement_learning_approaches_for_economic_dispatch_in_nuclear_driven_microgrids.pdf",
+        "mapping_status": "strong_pdf_match"
+      }
+    },
+    {
+      "id": "source:Biagioni2020PowerGridWorld",
+      "label": "Biagioni2020PowerGridWorld",
+      "subtitle": "PowerGridworld: A Framework for Multi-Agent Reinforcement Learning in Power Systems",
+      "meta": {
+        "citation_key": "Biagioni2020PowerGridWorld",
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\citation_verification\\recovered_pdfs\\Biagioni2020PowerGridWorld_PowerGridworld_A_Framework_for_Multi_Agent_Reinforcement_Learning_in_Power_Systems.pdf",
+        "mapping_status": "strong_pdf_match"
+      }
+    },
+    {
+      "id": "source:Dalal2018",
+      "label": "Dalal2018",
+      "subtitle": "Safe exploration in continuous action spaces",
+      "meta": {
+        "citation_key": "Dalal2018",
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\citation_verification\\recovered_pdfs\\Dalal2018_Safe_exploration_in_continuous_action_spaces.pdf",
+        "mapping_status": "strong_pdf_match"
+      }
+    },
+    {
+      "id": "source:Hou2025RLADN",
+      "label": "Hou2025RLADN",
+      "subtitle": "RL-ADN: A high-performance Deep Reinforcement Learning environment for optimal Energy S...",
+      "meta": {
+        "citation_key": "Hou2025RLADN",
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\hub\\papers\\Theme_01_DRL_SAC_Policy_Optimization\\020_RL_ADN_A_high_performance_Deep_Reinforcement_Learning_environment_for_optimal_En.pdf",
+        "mapping_status": "usable_pdf_match"
+      }
+    },
+    {
+      "id": "source:Huang2022",
+      "label": "Huang2022",
+      "subtitle": "Mixed Deep Reinforcement Learning Considering Discrete-continuous Hybrid Action Space f...",
+      "meta": {
+        "citation_key": "Huang2022",
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\oa\\pdfs\\Huang2022_oa.pdf",
+        "mapping_status": "strong_pdf_match"
+      }
+    },
+    {
+      "id": "source:Li2023ProcIEEE",
+      "label": "Li2023ProcIEEE",
+      "subtitle": "Deep Reinforcement Learning for Smart Grid Operations: Algorithms, Applications, and Pr...",
+      "meta": {
+        "citation_key": "Li2023ProcIEEE",
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\hub\\papers\\Theme_01_DRL_SAC_Policy_Optimization\\066_Deep_Reinforcement_Learning_for_Smart_Grid_Operations_Algorithms_Applications.pdf",
+        "mapping_status": "strong_pdf_match"
+      }
+    },
+    {
+      "id": "source:Rezaeimozafar2024",
+      "label": "Rezaeimozafar2024",
+      "subtitle": "A hybrid heuristic-reinforcement learning-based real-time control model for residential...",
+      "meta": {
+        "citation_key": "Rezaeimozafar2024",
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\hub\\papers\\Theme_04_Building_Energy_HVAC\\008_A_hybrid_heuristic_reinforcement_learning_based_real_time_control_model_for_resi.pdf",
+        "mapping_status": "usable_pdf_match"
+      }
+    },
+    {
+      "id": "source:Stute2023",
+      "label": "Stute2023",
+      "subtitle": "Economic Analysis of Demand Response Strategies in Residential Buildings",
+      "meta": {
+        "citation_key": "Stute2023",
+        "pdf_path": "",
+        "mapping_status": "metadata_hint_only"
+      }
+    },
+    {
+      "id": "source:Watari2021",
+      "label": "Watari2021",
+      "subtitle": "Multi-time scale energy management framework for smart PV systems mixing fast and slow...",
+      "meta": {
+        "citation_key": "Watari2021",
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\citation_verification\\recovered_pdfs\\Watari2021_Multi-time_scale_energy_management_framework_for_smart_PV_systems_mixing_fast_and_slow_dynamics.pdf",
+        "mapping_status": "strong_pdf_match"
+      }
+    },
+    {
+      "id": "source:Wilczynski2023",
+      "label": "Wilczynski2023",
+      "subtitle": "Energy management by deep reinforcement learning: A survey focusing on challenges and o...",
+      "meta": {
+        "citation_key": "Wilczynski2023",
+        "pdf_path": "",
+        "mapping_status": "metadata_hint_only"
+      }
+    },
+    {
+      "id": "source:Wilk2022BTM_MADRL",
+      "label": "Wilk2022BTM_MADRL",
+      "subtitle": "A multi-agent deep reinforcement learning based energy management for behind-the-meter...",
+      "meta": {
+        "citation_key": "Wilk2022BTM_MADRL",
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\hub\\papers\\Theme_01_DRL_SAC_Policy_Optimization\\043_A_multi_agent_deep_reinforcement_learning_based_energy_management_for_behind_the.pdf",
+        "mapping_status": "strong_pdf_match"
+      }
+    },
+    {
+      "id": "source:Zhang2020CSEE",
+      "label": "Zhang2020CSEE",
+      "subtitle": "Deep reinforcement learning for energy system optimization",
+      "meta": {
+        "citation_key": "Zhang2020CSEE",
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\hub\\papers\\Theme_01_DRL_SAC_Policy_Optimization\\016_Deep_reinforcement_learning_based_multi_objective_energy_management_system_for_m.pdf",
+        "mapping_status": "usable_pdf_match"
+      }
+    },
+    {
+      "id": "source:buiCriticalReviewSafeRL2025",
+      "label": "buiCriticalReviewSafeRL2025",
+      "subtitle": "A critical review of safe reinforcement learning strategies in power and energy systems",
+      "meta": {
+        "citation_key": "buiCriticalReviewSafeRL2025",
+        "pdf_path": "",
+        "mapping_status": "metadata_hint_only"
+      }
+    },
+    {
+      "id": "source:garciaVallsIntroducingNewParadigm2018",
+      "label": "garciaVallsIntroducingNewParadigm2018",
+      "subtitle": "Introducing a New Paradigm for Real-Time Control Systems",
+      "meta": {
+        "citation_key": "garciaVallsIntroducingNewParadigm2018",
+        "pdf_path": "",
+        "mapping_status": "metadata_hint_only"
+      }
+    },
+    {
+      "id": "source:hoogsteen2017cyber",
+      "label": "hoogsteen2017cyber",
+      "subtitle": "A Cyber-Physical Systems Perspective on Decentralized Energy Management",
+      "meta": {
+        "citation_key": "hoogsteen2017cyber",
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\citation_verification\\recovered_pdfs\\hoogsteen2017cyber_A_Cyber_Physical_Systems_Perspective_on_Decentralized_Energy_Management.pdf",
+        "mapping_status": "strong_pdf_match"
+      }
+    },
+    {
+      "id": "source:liDeepReinforcementLearning2023Full",
+      "label": "liDeepReinforcementLearning2023Full",
+      "subtitle": "Deep {Reinforcement} {Learning} for {Smart} {Grid} {Operations}: {Algorithms}, {Applica...",
+      "meta": {
+        "citation_key": "liDeepReinforcementLearning2023Full",
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\hub\\papers\\Theme_01_DRL_SAC_Policy_Optimization\\066_Deep_Reinforcement_Learning_for_Smart_Grid_Operations_Algorithms_Applications.pdf",
+        "mapping_status": "strong_pdf_match"
+      }
+    },
+    {
+      "id": "source:orfanoudakis2024ev2gym",
+      "label": "orfanoudakis2024ev2gym",
+      "subtitle": "EV2Gym: A Flexible V2G Simulator for EV Smart Charging Research and Benchmarking",
+      "meta": {
+        "citation_key": "orfanoudakis2024ev2gym",
+        "pdf_path": "E:\\RP1\\RP1_main\\docs\\citation_verification\\recovered_pdfs\\orfanoudakis2024ev2gym_EV2Gym_A_Flexible_V2G_Simulator_for_EV_Smart_Charging_Research_and_Benchmarking.pdf",
+        "mapping_status": "strong_pdf_match"
+      }
+    }
+  ],
+  "edges": [
+    {
+      "source": "claim:1",
+      "target": "source:hoogsteen2017cyber",
+      "relation": "cites"
+    },
+    {
+      "source": "claim:2",
+      "target": "source:garciaVallsIntroducingNewParadigm2018",
+      "relation": "cites"
+    },
+    {
+      "source": "claim:21",
+      "target": "source:Wilczynski2023",
+      "relation": "cites"
+    },
+    {
+      "source": "claim:25",
+      "target": "source:liDeepReinforcementLearning2023Full",
+      "relation": "cites"
+    },
+    {
+      "source": "claim:26",
+      "target": "source:Li2023ProcIEEE",
+      "relation": "cites"
+    },
+    {
+      "source": "claim:3",
+      "target": "source:Zhang2020CSEE",
+      "relation": "cites"
+    },
+    {
+      "source": "claim:31",
+      "target": "source:Wilk2022BTM_MADRL",
+      "relation": "cites"
+    },
+    {
+      "source": "claim:4",
+      "target": "source:buiCriticalReviewSafeRL2025",
+      "relation": "cites"
+    },
+    {
+      "source": "claim:40",
+      "target": "source:Rezaeimozafar2024",
+      "relation": "cites"
+    },
+    {
+      "source": "claim:43",
+      "target": "source:Rezaeimozafar2024",
+      "relation": "cites"
+    },
+    {
+      "source": "claim:45",
+      "target": "source:Li2023ProcIEEE",
+      "relation": "cites"
+    },
+    {
+      "source": "claim:48",
+      "target": "source:Arvanitidis2025",
+      "relation": "cites"
+    },
+    {
+      "source": "claim:5",
+      "target": "source:Stute2023",
+      "relation": "cites"
+    },
+    {
+      "source": "claim:50",
+      "target": "source:Arvanitidis2025",
+      "relation": "cites"
+    },
+    {
+      "source": "claim:51",
+      "target": "source:Watari2021",
+      "relation": "cites"
+    },
+    {
+      "source": "claim:53",
+      "target": "source:Li2023ProcIEEE",
+      "relation": "cites"
+    },
+    {
+      "source": "claim:54",
+      "target": "source:Arvanitidis2025",
+      "relation": "cites"
+    },
+    {
+      "source": "claim:57",
+      "target": "source:Zhang2020CSEE",
+      "relation": "cites"
+    },
+    {
+      "source": "claim:58",
+      "target": "source:Dalal2018",
+      "relation": "cites"
+    },
+    {
+      "source": "claim:59",
+      "target": "source:Huang2022",
+      "relation": "cites"
+    },
+    {
+      "source": "claim:6",
+      "target": "source:Li2023ProcIEEE",
+      "relation": "cites"
+    },
+    {
+      "source": "claim:60",
+      "target": "source:Hou2025RLADN",
+      "relation": "cites"
+    },
+    {
+      "source": "claim:61",
+      "target": "source:Biagioni2020PowerGridWorld",
+      "relation": "cites"
+    },
+    {
+      "source": "claim:62",
+      "target": "source:orfanoudakis2024ev2gym",
+      "relation": "cites"
+    },
+    {
+      "source": "evidence:1:164",
+      "target": "concept:benchmark_fairness",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:1:164",
+      "target": "concept:drl_sac_control",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:1:164",
+      "target": "concept:safety_projection",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:1:164",
+      "target": "concept:scope_boundary",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:1:164",
+      "target": "concept:tariff_settlement",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:21:none",
+      "target": "concept:drl_sac_control",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:21:none",
+      "target": "concept:safety_projection",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:21:none",
+      "target": "concept:tariff_settlement",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:25:3",
+      "target": "concept:drl_sac_control",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:26:3",
+      "target": "concept:drl_sac_control",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:2:none",
+      "target": "concept:benchmark_fairness",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:2:none",
+      "target": "concept:drl_sac_control",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:2:none",
+      "target": "concept:safety_projection",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:2:none",
+      "target": "concept:scope_boundary",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:2:none",
+      "target": "concept:tariff_settlement",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:31:3",
+      "target": "concept:drl_sac_control",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:31:3",
+      "target": "concept:scaling_generalization",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:31:3",
+      "target": "concept:scope_boundary",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:3:3",
+      "target": "concept:benchmark_fairness",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:3:3",
+      "target": "concept:drl_sac_control",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:3:3",
+      "target": "concept:safety_projection",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:3:3",
+      "target": "concept:scope_boundary",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:3:3",
+      "target": "concept:tariff_settlement",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:40:1",
+      "target": "concept:battery_dynamics",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:40:1",
+      "target": "concept:drl_sac_control",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:40:1",
+      "target": "concept:scope_boundary",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:43:1",
+      "target": "concept:battery_dynamics",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:43:1",
+      "target": "concept:benchmark_fairness",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:43:1",
+      "target": "concept:drl_sac_control",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:43:1",
+      "target": "concept:scope_boundary",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:43:1",
+      "target": "concept:tariff_settlement",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:45:24",
+      "target": "concept:benchmark_fairness",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:45:24",
+      "target": "concept:drl_sac_control",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:48:8",
+      "target": "concept:battery_dynamics",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:48:8",
+      "target": "concept:drl_sac_control",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:48:8",
+      "target": "concept:safety_projection",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:4:none",
+      "target": "concept:benchmark_fairness",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:4:none",
+      "target": "concept:drl_sac_control",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:4:none",
+      "target": "concept:safety_projection",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:4:none",
+      "target": "concept:scope_boundary",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:4:none",
+      "target": "concept:tariff_settlement",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:50:15",
+      "target": "concept:drl_sac_control",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:51:3",
+      "target": "concept:battery_dynamics",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:51:3",
+      "target": "concept:benchmark_fairness",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:51:3",
+      "target": "concept:drl_sac_control",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:51:3",
+      "target": "concept:scaling_generalization",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:53:3",
+      "target": "concept:drl_sac_control",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:54:4",
+      "target": "concept:drl_sac_control",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:57:9",
+      "target": "concept:battery_dynamics",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:57:9",
+      "target": "concept:drl_sac_control",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:57:9",
+      "target": "concept:scaling_generalization",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:58:5",
+      "target": "concept:safety_projection",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:59:5",
+      "target": "concept:drl_sac_control",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:59:5",
+      "target": "concept:safety_projection",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:59:5",
+      "target": "concept:scope_boundary",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:5:none",
+      "target": "concept:benchmark_fairness",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:5:none",
+      "target": "concept:drl_sac_control",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:5:none",
+      "target": "concept:safety_projection",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:5:none",
+      "target": "concept:scope_boundary",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:5:none",
+      "target": "concept:tariff_settlement",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:60:3",
+      "target": "concept:drl_sac_control",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:60:3",
+      "target": "concept:scaling_generalization",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:61:8",
+      "target": "concept:drl_sac_control",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:61:8",
+      "target": "concept:scaling_generalization",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:62:5",
+      "target": "concept:battery_dynamics",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:62:5",
+      "target": "concept:benchmark_fairness",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:62:5",
+      "target": "concept:tariff_settlement",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:6:25",
+      "target": "concept:drl_sac_control",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:6:25",
+      "target": "concept:network_assumption",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "evidence:6:25",
+      "target": "concept:tariff_settlement",
+      "relation": "supports_concept"
+    },
+    {
+      "source": "source:Arvanitidis2025",
+      "target": "evidence:48:8",
+      "relation": "contains_evidence"
+    },
+    {
+      "source": "source:Arvanitidis2025",
+      "target": "evidence:50:15",
+      "relation": "contains_evidence"
+    },
+    {
+      "source": "source:Arvanitidis2025",
+      "target": "evidence:54:4",
+      "relation": "contains_evidence"
+    },
+    {
+      "source": "source:Biagioni2020PowerGridWorld",
+      "target": "evidence:61:8",
+      "relation": "contains_evidence"
+    },
+    {
+      "source": "source:Dalal2018",
+      "target": "evidence:58:5",
+      "relation": "contains_evidence"
+    },
+    {
+      "source": "source:Hou2025RLADN",
+      "target": "evidence:60:3",
+      "relation": "contains_evidence"
+    },
+    {
+      "source": "source:Huang2022",
+      "target": "evidence:59:5",
+      "relation": "contains_evidence"
+    },
+    {
+      "source": "source:Li2023ProcIEEE",
+      "target": "evidence:26:3",
+      "relation": "contains_evidence"
+    },
+    {
+      "source": "source:Li2023ProcIEEE",
+      "target": "evidence:45:24",
+      "relation": "contains_evidence"
+    },
+    {
+      "source": "source:Li2023ProcIEEE",
+      "target": "evidence:53:3",
+      "relation": "contains_evidence"
+    },
+    {
+      "source": "source:Li2023ProcIEEE",
+      "target": "evidence:6:25",
+      "relation": "contains_evidence"
+    },
+    {
+      "source": "source:Rezaeimozafar2024",
+      "target": "evidence:40:1",
+      "relation": "contains_evidence"
+    },
+    {
+      "source": "source:Rezaeimozafar2024",
+      "target": "evidence:43:1",
+      "relation": "contains_evidence"
+    },
+    {
+      "source": "source:Stute2023",
+      "target": "evidence:5:none",
+      "relation": "contains_evidence"
+    },
+    {
+      "source": "source:Watari2021",
+      "target": "evidence:51:3",
+      "relation": "contains_evidence"
+    },
+    {
+      "source": "source:Wilczynski2023",
+      "target": "evidence:21:none",
+      "relation": "contains_evidence"
+    },
+    {
+      "source": "source:Wilk2022BTM_MADRL",
+      "target": "evidence:31:3",
+      "relation": "contains_evidence"
+    },
+    {
+      "source": "source:Zhang2020CSEE",
+      "target": "evidence:3:3",
+      "relation": "contains_evidence"
+    },
+    {
+      "source": "source:Zhang2020CSEE",
+      "target": "evidence:57:9",
+      "relation": "contains_evidence"
+    },
+    {
+      "source": "source:buiCriticalReviewSafeRL2025",
+      "target": "evidence:4:none",
+      "relation": "contains_evidence"
+    },
+    {
+      "source": "source:garciaVallsIntroducingNewParadigm2018",
+      "target": "evidence:2:none",
+      "relation": "contains_evidence"
+    },
+    {
+      "source": "source:hoogsteen2017cyber",
+      "target": "evidence:1:164",
+      "relation": "contains_evidence"
+    },
+    {
+      "source": "source:liDeepReinforcementLearning2023Full",
+      "target": "evidence:25:3",
+      "relation": "contains_evidence"
+    },
+    {
+      "source": "source:orfanoudakis2024ev2gym",
+      "target": "evidence:62:5",
+      "relation": "contains_evidence"
+    }
+  ]
+}
