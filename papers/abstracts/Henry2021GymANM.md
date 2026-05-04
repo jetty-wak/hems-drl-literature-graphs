@@ -1,11 +1,13 @@
 # Gym-ANM: Reinforcement learning environments for active network management tasks in electricity distribution systems
 
-**BibTeX key:** `Henry2021GymANM`  
-**Year:** 2021  
+**Key:** `Henry2021GymANM`  
+**Type:** article  
 **Author(s):** Henry, Robin and Ernst, Damien  
-**DOI:** https://doi.org/10.1016/j.egyai.2021.100092  
-**Cited in:** Ch2
+**Year:** 2021  
+**Venue:** Energy and AI  
+**DOI:** [10.1016/j.egyai.2021.100092](https://doi.org/10.1016/j.egyai.2021.100092)  
+**Cited in:** Ch2  
 
-## Claims supported in thesis
+## Thesis claims supported
 
-- Gym-ANM uses linearised power-flow approximations to accelerate training and frames the objective from a DSO perspective
+- **[Ch2]** Gym-ANM uses linearised power-flow approximations to accelerate training and frames the objective from a DSO perspective

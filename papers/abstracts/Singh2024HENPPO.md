@@ -1,8 +1,9 @@
-# HEN-PPO: Hierarchical Energy Network with Proximal Policy Optimization
+# Singh2024HENPPO
 
-**BibTeX key:** `Singh2024HENPPO`  
-**Cited in:** Ch3/4
+**Key:** `Singh2024HENPPO`  
+**Type:** misc  
+**Cited in:** Ch3  
 
-## Claims supported in thesis
+## Thesis claims supported
 
-- Hybrid actions are the most realistic for flexibility-enabled HEMS because they combine storage dispatch with scheduling or comfort decisions
+- **[Ch3]** Hybrid actions are the most realistic for flexibility-enabled HEMS because they combine storage dispatch with scheduling or comfort decisions

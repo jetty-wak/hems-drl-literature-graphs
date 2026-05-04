@@ -1,10 +1,12 @@
 # Resilient multi-agent DRL for distributed battery energy storage
 
-**BibTeX key:** `ZhouLiu2024`  
-**Year:** 2024  
+**Key:** `ZhouLiu2024`  
+**Type:** article  
 **Author(s):** Zhou, X. and Liu, Y.  
-**Cited in:** Ch2
+**Year:** 2024  
+**Venue:** IEEE Transactions on Sustainable Energy  
+**Cited in:** Ch2  
 
-## Claims supported in thesis
+## Thesis claims supported
 
-- Adjacent studies address parts of this combined setting in isolation---community-level multi-agent coordination , hybrid thermal--electrical dispatch ---but each frames its contribution around a distinct sub-problem
+- **[Ch2]** Adjacent studies address parts of this combined setting in isolation---community-level multi-agent coordination , hybrid thermal--electrical dispatch ---but each frames its contribution around a distinct sub-problem

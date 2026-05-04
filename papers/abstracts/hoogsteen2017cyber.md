@@ -1,10 +1,11 @@
 # A Cyber-Physical Systems Perspective on Decentralized Energy Management
 
-**BibTeX key:** `hoogsteen2017cyber`  
-**Year:** 2017  
+**Key:** `hoogsteen2017cyber`  
+**Type:** phdthesis  
 **Author(s):** Hoogsteen, Gerwin  
-**Cited in:** Ch2
+**Year:** 2017  
+**Cited in:** Ch2  
 
-## Claims supported in thesis
+## Thesis claims supported
 
-- It is to show why a credible comparison between optimisation and DRL should make boundary assumptions, information sets, constraint handling, tariff assumptions, and KPI definitions explicit before performance differences are interpreted
+- **[Ch2]** It is to show why a credible comparison between optimisation and DRL should make boundary assumptions, information sets, constraint handling, tariff assumptions, and KPI definitions explicit before performance differences are interpreted

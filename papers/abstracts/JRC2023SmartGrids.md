@@ -1,10 +1,12 @@
 # Smart Grids in the European Union: 2023 Status Report
 
-**BibTeX key:** `JRC2023SmartGrids`  
+**Key:** `JRC2023SmartGrids`  
+**Type:** techreport  
+**Author(s):** European Commission Joint Research Centre  
 **Year:** 2023  
-**Author(s):** {European Commission Joint Research Centre}  
-**Cited in:** Ch2
+**Venue:** Clean Energy Technology Observatory (CETO)  
+**Cited in:** Ch2  
 
-## Claims supported in thesis
+## Thesis claims supported
 
-- First, liberalised retail markets and dynamic tariffs can define scheduling incentives for Dutch prosumers , and European studies indicate that tariff structures and price-signal design can materially alter household scheduling behaviour
+- **[Ch2]** First, liberalised retail markets and dynamic tariffs can define scheduling incentives for Dutch prosumers , and European studies indicate that tariff structures and price-signal design can materially alter household scheduling behaviour

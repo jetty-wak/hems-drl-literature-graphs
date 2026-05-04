@@ -1,10 +1,12 @@
 # Constrained Markov Decision Processes
 
-**BibTeX key:** `Altman1999`  
-**Year:** 1999  
+**Key:** `Altman1999`  
+**Type:** book  
 **Author(s):** Altman, Eitan  
-**Cited in:** Ch3/4
+**Year:** 1999  
+**Venue:** CRC Press  
+**Cited in:** Ch3  
 
-## Claims supported in thesis
+## Thesis claims supported
 
-- A constrained MDP (CMDP) makes constraint costs explicit and is often the more precise language for safety-critical control
+- **[Ch3]** A constrained MDP (CMDP) makes constraint costs explicit and is often the more precise language for safety-critical control

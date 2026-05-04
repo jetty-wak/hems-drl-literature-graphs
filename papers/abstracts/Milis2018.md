@@ -1,12 +1,15 @@
 # Steering the adoption of battery storage through electricity tariff design
 
-**BibTeX key:** `Milis2018`  
-**Year:** 2018  
+**Key:** `Milis2018`  
+**Type:** article  
 **Author(s):** Kevin Milis and Herbert Peremans and Steven Van Passel  
-**DOI:** https://doi.org/10.1016/j.rser.2018.09.005  
-**Cited in:** Ch2
+**Year:** 2018  
+**Venue:** Renewable and Sustainable Energy Reviews  
+**DOI:** [10.1016/j.rser.2018.09.005](https://doi.org/10.1016/j.rser.2018.09.005)  
+**OA status:** closed  
+**Cited in:** Ch2  
 
-## Claims supported in thesis
+## Thesis claims supported
 
-- The design of electricity tariffs affects how a household battery should operate
-- Under peak-based tariffs, the battery can also be incentivised to reduce short periods of high grid import
+- **[Ch2]** The design of electricity tariffs affects how a household battery should operate
+- **[Ch2]** Under peak-based tariffs, the battery can also be incentivised to reduce short periods of high grid import

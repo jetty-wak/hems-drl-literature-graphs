@@ -1,0 +1,8 @@
+# An integrated energy system scheduling method considering year-round load variations based on deep reinforcement learning
+
+**Key:** `Guo2025_Resolved`  
+**Type:** article  
+**Author(s):** Liu, Qingrong and Shen, Hao and Meng, Hua and Qian, Fanyue and Yao, Yuting and Gao, Yuan and Xu, Tingting and Ruan, Yingjun  
+**Year:** 2026  
+**Venue:** AI Agent  
+**DOI:** [10.20517/aiagent.2025.12](https://doi.org/10.20517/aiagent.2025.12)  

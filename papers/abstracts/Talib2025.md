@@ -1,10 +1,12 @@
 # Demand response vs. storage: A comparative analysis of flexibility
 
-**BibTeX key:** `Talib2025`  
-**Year:** 2025  
+**Key:** `Talib2025`  
+**Type:** article  
 **Author(s):** Talib, R. and Joe, I.  
-**Cited in:** Ch2
+**Year:** 2025  
+**Venue:** Energy and Buildings  
+**Cited in:** Ch2  
 
-## Claims supported in thesis
+## Thesis claims supported
 
-- The literature therefore narrows further in the next section by distinguishing between dispatch-only formulations, in which flexibility is concentrated in storage scheduling, and broader demand-response formulations, in which controllable demand itself becomes part of the decision problem
+- **[Ch2]** The literature therefore narrows further in the next section by distinguishing between dispatch-only formulations, in which flexibility is concentrated in storage scheduling, and broader demand-response formulations, in which controllable demand itself becomes part of the decision problem

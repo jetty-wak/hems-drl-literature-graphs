@@ -1,11 +1,12 @@
 # Proximal Policy Optimization Algorithms
 
-**BibTeX key:** `Schulman2017`  
-**Year:** 2017  
+**Key:** `Schulman2017`  
+**Type:** misc  
 **Author(s):** Schulman, John and Wolski, Filip and Dhariwal, Prafulla and Radford, Alec and Klimov, Oleg  
+**Year:** 2017  
 **URL:** https://arxiv.org/abs/1707.06347  
-**Cited in:** Ch3/4
+**Cited in:** Ch3  
 
-## Claims supported in thesis
+## Thesis claims supported
 
-- Criterion & DQN & PPO & TD3 & SAC & HEMS relevance \\
+- **[Ch3]** Criterion & DQN & PPO & TD3 & SAC & HEMS relevance \\

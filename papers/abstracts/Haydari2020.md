@@ -1,0 +1,8 @@
+# Reinforcement Learning for Intelligent Transportation Systems: A Survey
+
+**Key:** `Haydari2020`  
+**Type:** article  
+**Author(s):** Haydari, Ammar and Yilmaz, Yasin  
+**Year:** 2022  
+**Venue:** IEEE Transactions on Intelligent Transportation Systems  
+**DOI:** [10.1109/tits.2020.3008612](https://doi.org/10.1109/tits.2020.3008612)  

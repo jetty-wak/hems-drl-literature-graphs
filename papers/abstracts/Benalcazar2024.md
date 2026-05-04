@@ -1,12 +1,14 @@
 # From consumer to prosumer: A model-based analysis of costs and benefits of grid-connected residential PV-battery systems
 
-**BibTeX key:** `Benalcazar2024`  
-**Year:** 2024  
+**Key:** `Benalcazar2024`  
+**Type:** article  
 **Author(s):** Benalcazar, Pablo and Kami{\'n}ski, Jacek  
-**DOI:** https://doi.org/10.1016/j.enpol.2024.114167  
-**Cited in:** Ch2
+**Year:** 2024  
+**Venue:** Energy Policy  
+**DOI:** [10.1016/j.enpol.2024.114167](https://doi.org/10.1016/j.enpol.2024.114167)  
+**Cited in:** Ch2  
 
-## Claims supported in thesis
+## Thesis claims supported
 
-- Operational scheduling and cost-minimisation formulations for residential PV--battery systems inform the inclusion criteria
-- For dispatch-focused benchmarks, storage should be represented through explicit charge/discharge limits and storage-operation reporting
+- **[Ch2]** Operational scheduling and cost-minimisation formulations for residential PV--battery systems inform the inclusion criteria
+- **[Ch2]** For dispatch-focused benchmarks, storage should be represented through explicit charge/discharge limits and storage-operation reporting

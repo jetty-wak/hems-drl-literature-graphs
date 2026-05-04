@@ -1,11 +1,13 @@
 # Demand Response and Smart Grids --- A Survey
 
-**BibTeX key:** `sianoDemandResponseSmart2014`  
-**Year:** 2014  
+**Key:** `sianoDemandResponseSmart2014`  
+**Type:** article  
 **Author(s):** Siano, P.  
-**DOI:** https://doi.org/10.1016/j.rser.2013.10.022  
-**Cited in:** Ch3/4
+**Year:** 2014  
+**Venue:** Renewable and Sustainable Energy Reviews  
+**DOI:** [10.1016/j.rser.2013.10.022](https://doi.org/10.1016/j.rser.2013.10.022)  
+**Cited in:** Ch3  
 
-## Claims supported in thesis
+## Thesis claims supported
 
-- Demand-side management (DSM) is the wider consumer-side umbrella
+- **[Ch3]** Demand-side management (DSM) is the wider consumer-side umbrella

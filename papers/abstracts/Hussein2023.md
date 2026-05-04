@@ -1,10 +1,12 @@
 # A review of controllers and optimization based scheduling operation for BESS
 
-**BibTeX key:** `Hussein2023`  
-**Year:** 2023  
+**Key:** `Hussein2023`  
+**Type:** article  
 **Author(s):** Hussein, A. and others  
-**Cited in:** Ch2
+**Year:** 2023  
+**Venue:** Journal of Energy Storage  
+**Cited in:** Ch2  
 
-## Claims supported in thesis
+## Thesis claims supported
 
-- In liberalised electricity systems, the scheduling of electricity use is shaped not only by device physics
+- **[Ch2]** In liberalised electricity systems, the scheduling of electricity use is shaped not only by device physics

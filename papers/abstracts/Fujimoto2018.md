@@ -1,10 +1,13 @@
 # Addressing function approximation error in actor-critic methods
 
-**BibTeX key:** `Fujimoto2018`  
-**Year:** 2018  
+**Key:** `Fujimoto2018`  
+**Type:** inproceedings  
 **Author(s):** Fujimoto, Scott and others  
-**Cited in:** Ch3/4
+**Year:** 2018  
+**Venue:** ICML  
+**Cited in:** Ch3  
 
-## Claims supported in thesis
+## Thesis claims supported
 
-- Criterion & DQN & PPO & TD3 & SAC & HEMS relevance \\
+- **[Ch3]** Criterion & DQN & PPO & TD3 & SAC & HEMS relevance \\
+- **[Ch3]** TD3 is designed for continuous-control tasks Fujimoto2018 .

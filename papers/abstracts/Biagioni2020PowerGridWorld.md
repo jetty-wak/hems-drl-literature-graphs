@@ -1,11 +1,13 @@
 # PowerGridworld: A Framework for Multi-Agent Reinforcement Learning in Power Systems
 
-**BibTeX key:** `Biagioni2020PowerGridWorld`  
+**Key:** `Biagioni2020PowerGridWorld`  
+**Type:** inproceedings  
+**Author(s):** Biagioni, David J. and Zhang, Xiangyu and Wald, Dylan and Vaidhynathan, Deepthi and Chintala, Rohit and King, Jennifer and Zamzam, Ahmed S.  
 **Year:** 2022  
-**Author(s):** Biagioni, David J. and Zhang, Xiangyu and Wald, Dylan and Vaidhynathan, Deepthi and Chintala, Rohit ...  
-**DOI:** https://doi.org/10.1145/3538637.3539616  
-**Cited in:** Ch2
+**Venue:** Proceedings of the Thirteenth ACM International Conference on Future Energy Systems  
+**DOI:** [10.1145/3538637.3539616](https://doi.org/10.1145/3538637.3539616)  
+**Cited in:** Ch2  
 
-## Claims supported in thesis
+## Thesis claims supported
 
-- PowerGridWorld supports multi-agent dispatch through OpenDSS
+- **[Ch2]** PowerGridWorld supports multi-agent dispatch through OpenDSS
