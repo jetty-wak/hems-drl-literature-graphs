@@ -41,6 +41,11 @@ This package provides RP1-specific focused graph views with proposal-friendly si
 - proposal-ready compact graph: `docs/citation_verification/graph_views/proposal_ready_compact_graph.json`
 - gap report: `docs/citation_verification/graph_views/gap_report.md`
 
+## Verifier Trace Artifact
+
+- quote + fallback trace graph json: `docs/knowledge_graphs/chapter2/verifier_quote_fallback_kg.json`
+- quote + fallback trace graph notes: `docs/knowledge_graphs/chapter2/verifier_quote_fallback_kg.md`
+
 ## Heading Pattern Used (adapted to RP1)
 
 - Create focused subgraphs by research lane.
